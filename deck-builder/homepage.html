@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Play Chimera</title>
+</head>
+
+<body>
+<h1>Welcome to Chimera!</h1>
+
+<p>
+v0.0.39-alpha
+</p>
+
+<h3>Overview:</h3>
+<p>
+This website is designed to generate decklists for the Chimera format of netrunner.
+</p>
+
+<h3>What is Chimera?</h3>
+<p>
+    Chimera is a newly designed format of netrunner, which involves randomly generating “legal”<b>*</b> eternal+<b>**</b> Ampere, and Nova decklists. <br>
+    <br>
+    <b>*</b>Ampere is not restricted to the max 2 agendas from each faction requirement on its identity (note: this makes it so jnet may label its decklists as even casual illegal) <br>
+    <b>**</b>including all terminal directive cards (campaign cards too, which were never legal in tournament play) <br>
+    <br>
+    From playtesting the above changes made the format the most fun! <br>
+</p>
+
+<h3>How to play:</h3>
+<p>
+    1. Generate decklists using the following url: <a href="/new-deck">new deck</a> <br>
+    2. Copy your decklist Ampere, or Nova into <a href="https://jinteki.net">jnet</a> (note: the text is already formatted to align with jnet’s deck building field) <br>
+    &emsp;[<b>suggestion</b>: copy the deck without looking at it. We found playing the decks completely blind to be the most fun in playtesting] <br>
+    3. Hop in a game with someone else playing Chimera on the opposite side <br>
+    4. Enjoy! <br>
+    5. Give feedback/ideas/suggestions for the format to <a href="https://discordapp.com/users/santa181">santa181</a> on Discord! <br>
+</p>
+
+<h3>The Algorithm:</h3>
+
+<p>
+Corp: <br>
+&emsp;1. Agendas are added until the corp is at 20 agenda points. <br>
+&emsp;2. The corp is given a base of 9 econ cards. <br>
+&emsp;3. The corp is given a base of 3 etr Ice. <br>
+&emsp;4. The remainder of the corp's deck is filled out with any non-agenda cards, until it hits 49 cards. <br>
+
+Runner: <br>
+&emsp;1. Runner is given one of each breaker in the form of <b>Peacock</b>, <b>Aurora</b>, and <b>Creeper</b> <br>
+&emsp;2. The runner is given a base of 8 econ cards. <br>
+&emsp;3. The remainder of the runner's deck is filled out with any cards, until it has 40 cards. <br>
+</p>
+
+<p>
+Econ Card: <br>
+&emsp;- Philosophy: Econ cards are meant to feel like a generally good and consistently reliable card to <br>
+&emsp;provide some economic value. However, they should not be too strong, or the only econ card you need. <br>
+&emsp;Following this pattern cards like Account Siphon, and Magnum Opus do not exist on the econ list. <br>
+&emsp;- <a href="/econcards/corp">Corp</a> <br>
+&emsp;- <a href="/econcards/runner">Runner</a> <br>
+</p>
+<p>
+Ban List: <br>
+&emsp; - Philosophy: The general intention of balancing Chimera is that "click to draw should feel good"! <br>
+&emsp; Following this pattern "overpowered" cards are not banned, and the bans focus on removing cards that are: <br>
+&emsp;&emsp;1. pointless within the format of singletons and no id abilities/factions. <br>
+&emsp;&emsp;2. just below the curve of a card that would feel actually fun to have in your deck. <br>
+&emsp;&emsp;3. lacking consistent synergy with the deck being completely random. <br>
+&emsp;- <a href="/banlist/corp">Corp</a> <br>
+&emsp;- <a href="/banlist/runner">Runner</a> <br>
+</p>
+
+<h3>Credits:</h3>
+<p>
+    - The format was designed by the 2023 APAC champion <a href="https://netrunnerdb.com/en/profile/43033/Santa">Santa</a>, and the 2023 intercontinental champion <a href="https://netrunnerdb.com/en/profile/37550/maninthemoon">maninthemoon</a>. <br>
+    - All current coding credit goes to <a href="https://netrunnerdb.com/en/profile/43033/Santa">Santa</a> <br>
+    - Thanks to <a href="https://netrunnerdb.com/en/profile/37550/maninthemoon">maninthemoon</a>, <a href="https://netrunnerdb.com/en/profile/43033/Santa">Santa</a>, and the Chimera playtesters for helping with evaluation of the econ, and ban lists <br> 
+</p>
+
+<h3>Contributing/Feedback:</h3>
+<p>
+    - You can submit game reports <a href="https://docs.google.com/forms/d/e/1FAIpQLSdEPWpJR-ZSmmlNB_v_XHzfzKwh6AiHEe24UrL8AXtIZ531sw/viewform?usp=sf_link">here</a> which are used to help balance the format. <br>
+    - You can submit bug reports <a href="https://docs.google.com/forms/d/e/1FAIpQLSf6ZNIQbNPEZ8zrhmJmfLSRuiqeZnAm1P4MZWgMy5p76Mu0BQ/viewform?usp=sf_link">here</a> <br>
+    - If you have any additional feedback on ways to improve the format please DM <a href="https://discordapp.com/users/santa181">santa181</a> on Discord. <br>
+</p>
+
+<h3>Looking forward:</h3>
+<p>
+    - The plan is to open source the repository, where all the code will be available to explore and contribute to within github. <br>
+</p>
+</body>
+</html>

@@ -1,0 +1,32 @@
+name: Cleanup
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'version to cleanup'
+        required: true
+        type: string
+
+permissions:
+  id-token: write # This is required for requesting the JWT
+  contents: read  # This is required for actions/checkout
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      VERSION: ${{ inputs.version }}
+      SUBSCRIPTION_ID: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
+      RESOURCE_GROUP: ${{ secrets.PROD_RESOURCE_GROUP }}
+      MC_NAME: ${{ secrets.PROD_MC_NAME }}
+    steps:
+    - uses: actions/checkout@v3
+    - name: Az CLI login
+      uses: azure/login@v1
+      with:
+        client-id: ${{ secrets.AZURE_CLIENT_ID }}
+        tenant-id: ${{ secrets.AZURE_TENANT_ID }}
+        subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
+    - name: cleanup
+      run: make cleanup

@@ -1,0 +1,7173 @@
+[
+    {
+        "Title": "\"Baklan\" Bochkin",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 3,
+        "Set": "Downfall 17"
+    },
+    {
+        "Title": "\"Freedom Through Equality\"",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": "Current",
+        "Inf": 0,
+        "Set": "Democracy and Dogma 45"
+    },
+    {
+        "Title": "419: Amoral Scammer",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "The Devil and the Dragon 63"
+    },
+    {
+        "Title": "Aaron Marrón",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 2,
+        "Set": "Quorum 106"
+    },
+    {
+        "Title": "Abaasy",
+        "Cost": 2,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 2,
+        "Set": "Parhelion 70"
+    },
+    {
+        "Title": "Abagnale",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 2,
+        "Set": "System Update 2021 21"
+    },
+    {
+        "Title": "Acacia",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Down the White Nile 21"
+    },
+    {
+        "Title": "Access to Globalsec",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Link",
+        "Inf": 0,
+        "Set": "Core Set 52"
+    },
+    {
+        "Title": "Account Siphon",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run - Sabotage",
+        "Inf": 4,
+        "Set": "Core Set 18",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Activist Support",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "True Colors 62"
+    },
+    {
+        "Title": "Adam: Compulsive Hacker",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Bioroid",
+        "Inf": null,
+        "Set": "Data and Destiny 37"
+    },
+    {
+        "Title": "Adept",
+        "Cost": 5,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Fracter - Killer",
+        "Inf": 3,
+        "Set": "Terminal Directive Cards 17"
+    },
+    {
+        "Title": "Adjusted Chronotype",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Genetics",
+        "Inf": 2,
+        "Set": "The Valley 3"
+    },
+    {
+        "Title": "Adjusted Matrix",
+        "Cost": 5,
+        "Type": "Hardware",
+        "Subtype": "Mod",
+        "Inf": 2,
+        "Set": "Earth's Scion 46"
+    },
+    {
+        "Title": "Aeneas Informant",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 1,
+        "Set": "Earth's Scion 44",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Aesop's Pawnshop",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Connection - Location",
+        "Inf": 2,
+        "Set": "System Update 2021 35",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Afterimage",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 3,
+        "Set": "Uprising 79"
+    },
+    {
+        "Title": "Aghora",
+        "Cost": 5,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - AI - Deva",
+        "Inf": 2,
+        "Set": "Fear the Masses 97"
+    },
+    {
+        "Title": "Akamatsu Mem Chip",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Chip",
+        "Inf": 1,
+        "Set": "System Core 2019 48"
+    },
+    {
+        "Title": "Akiko Nisei: Head Case",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Clone",
+        "Inf": null,
+        "Set": "Reign and Reverie 15"
+    },
+    {
+        "Title": "Akshara Sareen",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 0,
+        "Set": "Democracy and Dogma 46"
+    },
+    {
+        "Title": "Algernon",
+        "Cost": 0,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 5,
+        "Set": "Reign and Reverie 22"
+    },
+    {
+        "Title": "Algo Trading",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Job",
+        "Inf": 1,
+        "Set": "Blood Money 29",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Alias",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 2,
+        "Set": "Honor and Profit 41"
+    },
+    {
+        "Title": "Alice Merchant: Clan Agitator",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Cyborg",
+        "Inf": null,
+        "Set": "Blood and Water 61"
+    },
+    {
+        "Title": "All-nighter",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Revised Core Set 53"
+    },
+    {
+        "Title": "Alpha",
+        "Cost": 7,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - AI",
+        "Inf": 3,
+        "Set": "Fear and Loathing 87"
+    },
+    {
+        "Title": "Always Be Running",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Directive - Virtual",
+        "Inf": 3,
+        "Set": "Data and Destiny 41"
+    },
+    {
+        "Title": "Always Have a Backup Plan",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "Downfall 11"
+    },
+    {
+        "Title": "Amina",
+        "Cost": 7,
+        "Type": "Program",
+        "Strength": 3,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 4,
+        "Set": "Kampala Ascendent 104"
+    },
+    {
+        "Title": "Amped Up",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Order and Chaos 31"
+    },
+    {
+        "Title": "Analog Dreamers",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Chrome City 48"
+    },
+    {
+        "Title": "Andromeda: Dispossessed Ristie",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "Humanity's Shadow 83"
+    },
+    {
+        "Title": "Angel Arena",
+        "Cost": -1,
+        "Type": "Resource",
+        "Subtype": "Location",
+        "Inf": 0,
+        "Set": "Up and Over 80"
+    },
+    {
+        "Title": "Aniccam",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "Uprising 84"
+    },
+    {
+        "Title": "Ankusa",
+        "Cost": 6,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 3,
+        "Set": "Fear the Masses 101"
+    },
+    {
+        "Title": "Another Day, Another Paycheck",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Current",
+        "Inf": 3,
+        "Set": "23 Seconds 7"
+    },
+    {
+        "Title": "Apex: Invasive Predator",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Digital",
+        "Inf": null,
+        "Set": "Data and Destiny 29"
+    },
+    {
+        "Title": "Apocalypse",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Data and Destiny 30"
+    },
+    {
+        "Title": "Archives Interface",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Order and Chaos 44"
+    },
+    {
+        "Title": "Armand \"Geist\" Walker: Tech Lord",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "G-mod",
+        "Inf": null,
+        "Set": "The Underway 63"
+    },
+    {
+        "Title": "Armitage Codebusting",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Job",
+        "Inf": 0,
+        "Set": "System Core 2019 62",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Artist Colony",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Location",
+        "Inf": 3,
+        "Set": "Kala Ghoda 9"
+    },
+    {
+        "Title": "Asmund Pudlat",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection - Seedy",
+        "Inf": 2,
+        "Set": "Parhelion 82"
+    },
+    {
+        "Title": "Assimilator",
+        "Cost": 5,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 5,
+        "Set": "Sovereign Sight 8"
+    },
+    {
+        "Title": "Astrolabe",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 2,
+        "Set": "Up and Over 79"
+    },
+    {
+        "Title": "Atman",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - AI",
+        "Inf": 3,
+        "Set": "System Update 2021 30"
+    },
+    {
+        "Title": "Au Revoir",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "The Source 119"
+    },
+    {
+        "Title": "Aumakua",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - AI - Virus",
+        "Inf": 1,
+        "Set": "Crimson Dust 104"
+    },
+    {
+        "Title": "Aurora",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 1,
+        "Set": "Revised Core Set 27"
+    },
+    {
+        "Title": "Autoscripter",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Up and Over 76"
+    },
+    {
+        "Title": "Avgustina Ivanovskaya",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 1,
+        "Set": "Midnight Sun 8"
+    },
+    {
+        "Title": "Ayla \"Bios\" Rahim: Simulant Specialist",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "System Update 2021 25"
+    },
+    {
+        "Title": "Az McCaffrey: Mechanical Prodigy",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Cyborg",
+        "Inf": null,
+        "Set": "Downfall 10"
+    },
+    {
+        "Title": "Baba Yaga",
+        "Cost": 5,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - AI",
+        "Inf": 2,
+        "Set": "Martial Law 88"
+    },
+    {
+        "Title": "Backstitching",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 2,
+        "Set": "Midnight Sun 19"
+    },
+    {
+        "Title": "Bank Job",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Job",
+        "Inf": 2,
+        "Set": "System Core 2019 38",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Bankroll",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Reign and Reverie 11",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Basilar Synthgland 2KVJ",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Cybernetic",
+        "Inf": 3,
+        "Set": "Parhelion 86"
+    },
+    {
+        "Title": "Battering Ram",
+        "Cost": 5,
+        "Type": "Program",
+        "Strength": 3,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 2,
+        "Set": "System Core 2019 52"
+    },
+    {
+        "Title": "Bazaar",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Location - Ritzy",
+        "Inf": 0,
+        "Set": "Salsette Island 65"
+    },
+    {
+        "Title": "Beach Party",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Breaker Bay 31"
+    },
+    {
+        "Title": "Because I Can",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 1,
+        "Set": "The Devil and the Dragon 66"
+    },
+    {
+        "Title": "Begemot",
+        "Cost": 5,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 4,
+        "Set": "Midnight Sun 7"
+    },
+    {
+        "Title": "Berserker",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 3,
+        "Set": "Earth's Scion 41"
+    },
+    {
+        "Title": "Beth Kilrain-Chang",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 3,
+        "Set": "Blood Money 30",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Bhagat",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 4,
+        "Set": "Fear the Masses 98"
+    },
+    {
+        "Title": "Bio-Modeled Network",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 2,
+        "Set": "Daedalus Complex 6"
+    },
+    {
+        "Title": "Biometric Spoofing",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Terminal Directive Cards 26"
+    },
+    {
+        "Title": "Bishop",
+        "Cost": 0,
+        "Type": "Program",
+        "Subtype": "Caïssa - Trojan",
+        "Inf": 2,
+        "Set": "Second Thoughts 21"
+    },
+    {
+        "Title": "Black Hat",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 5,
+        "Set": "Kampala Ascendent 110"
+    },
+    {
+        "Title": "Black Orchestra",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 2,
+        "Set": "Escalation 42"
+    },
+    {
+        "Title": "BlacKat",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 3,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 3,
+        "Set": "First Contact 53"
+    },
+    {
+        "Title": "Blackguard",
+        "Cost": 11,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 2,
+        "Set": "Fear and Loathing 85"
+    },
+    {
+        "Title": "Blackmail",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 0,
+        "Set": "Fear and Loathing 89"
+    },
+    {
+        "Title": "Blackstone",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 3,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 2,
+        "Set": "Intervention 68"
+    },
+    {
+        "Title": "Blockade Runner",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 1,
+        "Set": "Intervention 65"
+    },
+    {
+        "Title": "Bloo Moose",
+        "Cost": 4,
+        "Type": "Resource",
+        "Subtype": "Location - Seedy",
+        "Inf": 0,
+        "Set": "Free Mars 89",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Blueberry!™ Diesel",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Downfall 12"
+    },
+    {
+        "Title": "BMI Buffer",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Terminal Directive Campaign 21"
+    },
+    {
+        "Title": "BMI Buffer 2",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Terminal Directive Campaign 22"
+    },
+    {
+        "Title": "Bookmark",
+        "Cost": 0,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "The Universe of Tomorrow 106"
+    },
+    {
+        "Title": "Boomerang",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Uprising 75"
+    },
+    {
+        "Title": "Boris \"Syfr\" Kovac: Crafty Veteran",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Cyborg",
+        "Inf": null,
+        "Set": "Draft 8"
+    },
+    {
+        "Title": "Borrowed Satellite",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Link",
+        "Inf": 2,
+        "Set": "Creation and Control 50"
+    },
+    {
+        "Title": "Botulus",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": "Virus - Trojan",
+        "Inf": 3,
+        "Set": "System Gateway 4"
+    },
+    {
+        "Title": "Box-E",
+        "Cost": 4,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 1,
+        "Set": "First Contact 55"
+    },
+    {
+        "Title": "Brahman",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 3,
+        "Subtype": "Icebreaker - AI",
+        "Inf": 3,
+        "Set": "Salsette Island 62"
+    },
+    {
+        "Title": "Brain Cage",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Cybernetic",
+        "Inf": 0,
+        "Set": "Chrome City 49"
+    },
+    {
+        "Title": "Brain Chip",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "Data and Destiny 39"
+    },
+    {
+        "Title": "Bravado",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "Uprising 74",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Breach",
+        "Cost": 2,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 2,
+        "Set": "Honor and Profit 42"
+    },
+    {
+        "Title": "Bribery",
+        "Cost": -1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 2,
+        "Set": "The Source 118",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Brute-Force-Hack",
+        "Cost": -1,
+        "Type": "Event",
+        "Subtype": "Double",
+        "Inf": 3,
+        "Set": "Terminal Directive Cards 2"
+    },
+    {
+        "Title": "Buffer Drive",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Uprising 93"
+    },
+    {
+        "Title": "Bug",
+        "Cost": 0,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Honor and Profit 43"
+    },
+    {
+        "Title": "Bug Out Bag",
+        "Cost": -1,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Blood and Water 64"
+    },
+    {
+        "Title": "Build Script",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Station One 28",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Bukhgalter",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 4,
+        "Set": "Downfall 16",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Buzzsaw",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 3,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 1,
+        "Set": "System Gateway 5"
+    },
+    {
+        "Title": "By Any Means",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Priority - Sabotage",
+        "Inf": 5,
+        "Set": "Sovereign Sight 1"
+    },
+    {
+        "Title": "Cache",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 1,
+        "Set": "Salvaged Memories 4",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Caldera",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 1,
+        "Set": "Crimson Dust 105"
+    },
+    {
+        "Title": "Calling in Favors",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Honor and Profit 31"
+    },
+    {
+        "Title": "Capstone",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "True Colors 68"
+    },
+    {
+        "Title": "Captain Padma Isbister: Intrepid Explorer",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Cyborg",
+        "Inf": null,
+        "Set": "Midnight Sun 21"
+    },
+    {
+        "Title": "Career Fair",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "System Update 2021 15",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Careful Planning",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": "Priority",
+        "Inf": 4,
+        "Set": "Terminal Directive Cards 13"
+    },
+    {
+        "Title": "Carmen",
+        "Cost": 5,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 2,
+        "Set": "System Gateway 15"
+    },
+    {
+        "Title": "Carnivore",
+        "Cost": 4,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "System Gateway 3"
+    },
+    {
+        "Title": "Carpe Diem",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 2,
+        "Set": "Midnight Sun 12",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Cat's Cradle",
+        "Cost": 2,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 2,
+        "Set": "Midnight Sun 16"
+    },
+    {
+        "Title": "CBI Raid",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": "Run - Sabotage",
+        "Inf": 2,
+        "Set": "Business First 22"
+    },
+    {
+        "Title": "Cerberus \"Cuj.0\" H3",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 3,
+        "Set": "All That Remains 94"
+    },
+    {
+        "Title": "Cerberus \"Lady\" H1",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 3,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 3,
+        "Set": "Salvaged Memories 6"
+    },
+    {
+        "Title": "Cerberus \"Rex\" H2",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 3,
+        "Set": "All That Remains 96"
+    },
+    {
+        "Title": "Cezve",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Midnight Sun 17",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Chakana",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 2,
+        "Set": "Creation and Control 43"
+    },
+    {
+        "Title": "Chameleon",
+        "Cost": 2,
+        "Type": "Program",
+        "Strength": 3,
+        "Subtype": "Icebreaker",
+        "Inf": 3,
+        "Set": "System Update 2021 31"
+    },
+    {
+        "Title": "Chaos Theory: Wünderkind",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "G-mod",
+        "Inf": null,
+        "Set": "System Core 2019 40"
+    },
+    {
+        "Title": "Charlatan",
+        "Cost": 5,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 4,
+        "Set": "Terminal Directive Cards 10"
+    },
+    {
+        "Title": "Chastushka",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": "Run - Sabotage",
+        "Inf": 4,
+        "Set": "Midnight Sun 2"
+    },
+    {
+        "Title": "Chatterjee University",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Location - Ritzy",
+        "Inf": 0,
+        "Set": "Kala Ghoda 10"
+    },
+    {
+        "Title": "Chisel",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": "Virus - Trojan",
+        "Inf": 4,
+        "Set": "Downfall 3"
+    },
+    {
+        "Title": "Chop Bot 3000",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Order and Chaos 45"
+    },
+    {
+        "Title": "Chrome Parlor",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Location",
+        "Inf": 1,
+        "Set": "Chrome City 44"
+    },
+    {
+        "Title": "Citadel Sanctuary",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Location",
+        "Inf": 0,
+        "Set": "Intervention 70"
+    },
+    {
+        "Title": "Clan Vengeance",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Clan",
+        "Inf": 4,
+        "Set": "Station One 22"
+    },
+    {
+        "Title": "Cleaver",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 3,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 2,
+        "Set": "System Gateway 6"
+    },
+    {
+        "Title": "Climactic Showdown",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 5,
+        "Set": "Downfall 6"
+    },
+    {
+        "Title": "Cloak",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": "Stealth",
+        "Inf": 2,
+        "Set": "Creation and Control 41"
+    },
+    {
+        "Title": "Clone Chip",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Chip",
+        "Inf": 2,
+        "Set": "Creation and Control 38"
+    },
+    {
+        "Title": "Clot",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 2,
+        "Set": "System Update 2021 5"
+    },
+    {
+        "Title": "Code Siphon",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 4,
+        "Set": "The Source 115"
+    },
+    {
+        "Title": "Cold Read",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run - Stealth",
+        "Inf": 1,
+        "Set": "Martial Law 83",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Collective Consciousness",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "The Source 116"
+    },
+    {
+        "Title": "Comet",
+        "Cost": 4,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 2,
+        "Set": "Breaker Bay 27"
+    },
+    {
+        "Title": "Compile",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "Whispers in Nalubaale 88"
+    },
+    {
+        "Title": "Compromised Employee",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection - Link",
+        "Inf": 1,
+        "Set": "Trace Amount 25"
+    },
+    {
+        "Title": "Concerto",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 2,
+        "Set": "Parhelion 75",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Conduit",
+        "Cost": 4,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 4,
+        "Set": "System Gateway 24"
+    },
+    {
+        "Title": "Consume",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 5,
+        "Set": "The Devil and the Dragon 68"
+    },
+    {
+        "Title": "Contaminate",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Whispers in Nalubaale 83"
+    },
+    {
+        "Title": "Cookbook",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 3,
+        "Set": "System Gateway 9"
+    },
+    {
+        "Title": "Copycat",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Second Thoughts 25"
+    },
+    {
+        "Title": "Cordyceps",
+        "Cost": 3,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 4,
+        "Set": "Uprising 86"
+    },
+    {
+        "Title": "Corporate \"Grant\"",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Current",
+        "Inf": 3,
+        "Set": "Council of the Crest 44"
+    },
+    {
+        "Title": "Corporate Defector",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 0,
+        "Set": "Crimson Dust 109"
+    },
+    {
+        "Title": "Corporate Scandal",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": "Current",
+        "Inf": 1,
+        "Set": "Business First 25"
+    },
+    {
+        "Title": "Corroder",
+        "Cost": 2,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 2,
+        "Set": "System Update 2021 6"
+    },
+    {
+        "Title": "Cortez Chip",
+        "Cost": 0,
+        "Type": "Hardware",
+        "Subtype": "Chip",
+        "Inf": 2,
+        "Set": "What Lies Ahead 5"
+    },
+    {
+        "Title": "Councilman",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 0,
+        "Set": "Democracy and Dogma 47"
+    },
+    {
+        "Title": "Counter Surveillance",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Clan",
+        "Inf": 3,
+        "Set": "Station One 23"
+    },
+    {
+        "Title": "Cradle",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 5,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 3,
+        "Set": "Reign and Reverie 6"
+    },
+    {
+        "Title": "Crash Space",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Location",
+        "Inf": 2,
+        "Set": "Revised Core Set 34"
+    },
+    {
+        "Title": "Creative Commission",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "System Gateway 20",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Credit Crash",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 1,
+        "Set": "Blood Money 21"
+    },
+    {
+        "Title": "Credit Kiting",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Down the White Nile 23",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Creeper",
+        "Cost": 5,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Killer - Cloud",
+        "Inf": 1,
+        "Set": "Humanity's Shadow 89"
+    },
+    {
+        "Title": "Crescentus",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "A Study in Static 65"
+    },
+    {
+        "Title": "Crowbar",
+        "Cost": 1,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - Decoder - Cloud",
+        "Inf": 2,
+        "Set": "Chrome City 46"
+    },
+    {
+        "Title": "Crowdfunding",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Seedy - Virtual",
+        "Inf": 3,
+        "Set": "Magnum Opus Reprint 2",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Crypsis",
+        "Cost": 5,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - AI - Virus",
+        "Inf": 0,
+        "Set": "System Core 2019 61"
+    },
+    {
+        "Title": "Crypt",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 1,
+        "Set": "Council of the Crest 43"
+    },
+    {
+        "Title": "Customized Secretary",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Station One 27"
+    },
+    {
+        "Title": "Cyber Threat",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Priority",
+        "Inf": 3,
+        "Set": "Upstalk 13"
+    },
+    {
+        "Title": "Cyber-Cypher",
+        "Cost": 2,
+        "Type": "Program",
+        "Strength": 4,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 3,
+        "Set": "Creation and Control 44"
+    },
+    {
+        "Title": "Cyberdelia",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": "Chip",
+        "Inf": 3,
+        "Set": "Sovereign Sight 6"
+    },
+    {
+        "Title": "Cyberfeeder",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Chip",
+        "Inf": 1,
+        "Set": "System Core 2019 8"
+    },
+    {
+        "Title": "CyberSolutions Mem Chip",
+        "Cost": 4,
+        "Type": "Hardware",
+        "Subtype": "Chip",
+        "Inf": 2,
+        "Set": "Fear and Loathing 86"
+    },
+    {
+        "Title": "Cybertrooper Talut",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection - Virtual",
+        "Inf": 2,
+        "Set": "Uprising Booster Pack 3"
+    },
+    {
+        "Title": "Cybsoft MacroDrive",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "All That Remains 98"
+    },
+    {
+        "Title": "D4v1d",
+        "Cost": 3,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 4,
+        "Set": "The Spaces Between 33"
+    },
+    {
+        "Title": "Dadiana Chacon",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 0,
+        "Set": "Earth's Scion 49"
+    },
+    {
+        "Title": "Daeg, First Net-Cat",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Companion - Virtual",
+        "Inf": 2,
+        "Set": "Midnight Sun 28"
+    },
+    {
+        "Title": "Dagger",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 2,
+        "Set": "Creation and Control 42"
+    },
+    {
+        "Title": "Dai V",
+        "Cost": 6,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - AI",
+        "Inf": 3,
+        "Set": "23 Seconds 6"
+    },
+    {
+        "Title": "Daily Casts",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Uprising 94",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Daredevil",
+        "Cost": 5,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 1,
+        "Set": "Blood and Water 66"
+    },
+    {
+        "Title": "Darwin",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": -1,
+        "Subtype": "Icebreaker - AI - Virus",
+        "Inf": 3,
+        "Set": "Revised Core Set 8"
+    },
+    {
+        "Title": "Data Breach",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 1,
+        "Set": "Blood Money 28"
+    },
+    {
+        "Title": "Data Dealer",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Connection - Seedy",
+        "Inf": 2,
+        "Set": "System Core 2019 39",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Data Folding",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 0,
+        "Set": "Order and Chaos 55",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Data Leak Reversal",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Virtual - Sabotage",
+        "Inf": 1,
+        "Set": "Future Proof 103"
+    },
+    {
+        "Title": "Datasucker",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 1,
+        "Set": "System Core 2019 11"
+    },
+    {
+        "Title": "DaVinci",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "The Universe of Tomorrow 107"
+    },
+    {
+        "Title": "Day Job",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Order and Chaos 36",
+        "Money": "Yes"
+    },
+    {
+        "Title": "DDoS",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 3,
+        "Set": "The Universe of Tomorrow 103"
+    },
+    {
+        "Title": "Dean Lister",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 0,
+        "Set": "Terminal Directive Cards 25"
+    },
+    {
+        "Title": "Decoy",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 2,
+        "Set": "Core Set 32"
+    },
+    {
+        "Title": "Dedicated Processor",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Mod",
+        "Inf": 3,
+        "Set": "Earth's Scion 47"
+    },
+    {
+        "Title": "Deep Data Mining",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 4,
+        "Set": "Terminal Directive Cards 14"
+    },
+    {
+        "Title": "Deep Dive",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 5,
+        "Set": "Midnight Sun 22"
+    },
+    {
+        "Title": "Deep Red",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 1,
+        "Set": "Mala Tempora 42"
+    },
+    {
+        "Title": "Deep Thought",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 2,
+        "Set": "Future Proof 108"
+    },
+    {
+        "Title": "Déjà Vu",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Core Set 2"
+    },
+    {
+        "Title": "Demara",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 2,
+        "Set": "System Core 2019 34"
+    },
+    {
+        "Title": "Demolisher",
+        "Cost": 4,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 2,
+        "Set": "Downfall 2"
+    },
+    {
+        "Title": "Demolition Run",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run - Sabotage",
+        "Inf": 2,
+        "Set": "Revised Core Set 2"
+    },
+    {
+        "Title": "Desperado",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "Core Set 24",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Deuces Wild",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "23 Seconds 8",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Deus X",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 10,
+        "Subtype": "Icebreaker",
+        "Inf": 1,
+        "Set": "System Core 2019 53"
+    },
+    {
+        "Title": "Devil Charm",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Chip",
+        "Inf": 2,
+        "Set": "Uprising 68"
+    },
+    {
+        "Title": "Dhegdheer",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": "Daemon",
+        "Inf": 2,
+        "Set": "Terminal Directive Cards 20"
+    },
+    {
+        "Title": "Diana's Hunt",
+        "Cost": 4,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 4,
+        "Set": "Crimson Dust 106"
+    },
+    {
+        "Title": "Diesel",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "System Update 2021 27",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Dinosaurus",
+        "Cost": 5,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 2,
+        "Set": "System Core 2019 49"
+    },
+    {
+        "Title": "Direct Access",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 1,
+        "Set": "Downfall 28"
+    },
+    {
+        "Title": "Dirty Laundry",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 0,
+        "Set": "System Update 2021 37",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Disrupter",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "A Study in Static 61"
+    },
+    {
+        "Title": "District 99",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Location - Seedy",
+        "Inf": 3,
+        "Set": "Reign and Reverie 7"
+    },
+    {
+        "Title": "Diversion of Funds",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Double - Run - Sabotage",
+        "Inf": 5,
+        "Set": "Kampala Ascendent 105",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Divide and Conquer",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 4,
+        "Set": "Reign and Reverie 2"
+    },
+    {
+        "Title": "Diwan",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 1,
+        "Set": "Business First 21"
+    },
+    {
+        "Title": "DJ Fenris",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 1,
+        "Set": "Reign and Reverie 25",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Djinn",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": "Daemon",
+        "Inf": 2,
+        "Set": "Core Set 9"
+    },
+    {
+        "Title": "Docklands Pass",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "System Gateway 13"
+    },
+    {
+        "Title": "Donut Taganes",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 2,
+        "Set": "Honor and Profit 55"
+    },
+    {
+        "Title": "Doppelgänger",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 2,
+        "Set": "Revised Core Set 25"
+    },
+    {
+        "Title": "Dorm Computer",
+        "Cost": 0,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Breaker Bay 24"
+    },
+    {
+        "Title": "Dr. Lovegood",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 1,
+        "Set": "Data and Destiny 42"
+    },
+    {
+        "Title": "Dr. Nuka Vrolyck",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 2,
+        "Set": "Parhelion 92"
+    },
+    {
+        "Title": "DreamNet",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 0,
+        "Set": "Uprising 95",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Drive By",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Double",
+        "Inf": 2,
+        "Set": "The Underway 64"
+    },
+    {
+        "Title": "Drug Dealer",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 1,
+        "Set": "Old Hollywood 83"
+    },
+    {
+        "Title": "Duggar's",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Location - Seedy",
+        "Inf": 4,
+        "Set": "First Contact 54"
+    },
+    {
+        "Title": "Dummy Box",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 2,
+        "Set": "Crimson Dust 108"
+    },
+    {
+        "Title": "Dyson Fractal Generator",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Chip - Stealth",
+        "Inf": 3,
+        "Set": "Double Time 103"
+    },
+    {
+        "Title": "Dyson Mem Chip",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": "Chip - Link",
+        "Inf": 0,
+        "Set": "Revised Core Set 57"
+    },
+    {
+        "Title": "DZMZ Optimizer",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "System Gateway 22"
+    },
+    {
+        "Title": "e3 Feedback Implants",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Mod",
+        "Inf": 2,
+        "Set": "Salvaged Memories 3"
+    },
+    {
+        "Title": "Early Bird",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Priority - Run",
+        "Inf": 2,
+        "Set": "Honor and Profit 32"
+    },
+    {
+        "Title": "Earthrise Hotel",
+        "Cost": 4,
+        "Type": "Resource",
+        "Subtype": "Location - Ritzy",
+        "Inf": 0,
+        "Set": "System Update 2021 39"
+    },
+    {
+        "Title": "Easy Mark",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Job",
+        "Inf": 1,
+        "Set": "System Core 2019 23"
+    },
+    {
+        "Title": "Eater",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - AI",
+        "Inf": 3,
+        "Set": "Order and Chaos 40"
+    },
+    {
+        "Title": "Echelon",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 1,
+        "Set": "System Gateway 25"
+    },
+    {
+        "Title": "Eden Shard",
+        "Cost": 7,
+        "Type": "Resource",
+        "Subtype": "Virtual - Source",
+        "Inf": 1,
+        "Set": "Upstalk 20"
+    },
+    {
+        "Title": "Edward Kim: Humanity's Hammer",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "Order and Chaos 28"
+    },
+    {
+        "Title": "Egret",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": "Trojan",
+        "Inf": 2,
+        "Set": "System Update 2021 32"
+    },
+    {
+        "Title": "Ekomind",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "All That Remains 93"
+    },
+    {
+        "Title": "Ele \"Smoke\" Scovak: Cynosure of the Net",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "G-mod - Stealth",
+        "Inf": null,
+        "Set": "Intervention 66",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Embezzle",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run - Sabotage",
+        "Inf": 3,
+        "Set": "Whispers in Nalubaale 84",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Emergency Shutdown",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Sabotage",
+        "Inf": 2,
+        "Set": "System Update 2021 16"
+    },
+    {
+        "Title": "Emergent Creativity",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Double",
+        "Inf": 5,
+        "Set": "Down the White Nile 28"
+    },
+    {
+        "Title": "EMP Device",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Weapon",
+        "Inf": 4,
+        "Set": "Business First 20"
+    },
+    {
+        "Title": "Employee Strike",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Current",
+        "Inf": 1,
+        "Set": "Data and Destiny 53"
+    },
+    {
+        "Title": "Emptied Mind",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "The Liberated Mind 78"
+    },
+    {
+        "Title": "En Passant",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Sabotage",
+        "Inf": 2,
+        "Set": "System Update 2021 3"
+    },
+    {
+        "Title": "Encore",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 4,
+        "Set": "Quorum 107"
+    },
+    {
+        "Title": "Endless Hunger",
+        "Cost": 0,
+        "Type": "Program",
+        "Strength": 11,
+        "Subtype": "Icebreaker",
+        "Inf": 2,
+        "Set": "Data and Destiny 33"
+    },
+    {
+        "Title": "Endurance",
+        "Cost": 8,
+        "Type": "Hardware",
+        "Subtype": "Console - Vehicle",
+        "Inf": 5,
+        "Set": "Midnight Sun 25"
+    },
+    {
+        "Title": "Engolo",
+        "Cost": 5,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 4,
+        "Set": "Kampala Ascendent 108"
+    },
+    {
+        "Title": "Enhanced Vision",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Genetics",
+        "Inf": 3,
+        "Set": "The Valley 5"
+    },
+    {
+        "Title": "Environmental Testing",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Midnight Sun 29",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Equivocation",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Martial Law 84"
+    },
+    {
+        "Title": "Esâ Afontov: Eco-Insurrectionist",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Cyborg",
+        "Inf": null,
+        "Set": "Midnight Sun 1"
+    },
+    {
+        "Title": "Escher",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 5,
+        "Set": "Creation and Control 31"
+    },
+    {
+        "Title": "Euler",
+        "Cost": 2,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 3,
+        "Set": "Uprising 87"
+    },
+    {
+        "Title": "Eureka!",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": "Double",
+        "Inf": 1,
+        "Set": "Second Thoughts 27"
+    },
+    {
+        "Title": "Exclusive Party",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Salsette Island 60"
+    },
+    {
+        "Title": "Executive Wiretaps",
+        "Cost": 4,
+        "Type": "Event",
+        "Subtype": "Double",
+        "Inf": 3,
+        "Set": "Fear and Loathing 84"
+    },
+    {
+        "Title": "eXer",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 3,
+        "Set": "Council of the Crest 41"
+    },
+    {
+        "Title": "Exile: Streethawk",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "Creation and Control 30"
+    },
+    {
+        "Title": "Expert Schedule Analyzer",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Mala Tempora 45"
+    },
+    {
+        "Title": "Exploit",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Daedalus Complex 4"
+    },
+    {
+        "Title": "Exploratory Romp",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 2,
+        "Set": "Creation and Control 32"
+    },
+    {
+        "Title": "Express Delivery",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Honor and Profit 33"
+    },
+    {
+        "Title": "Faerie",
+        "Cost": 0,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 3,
+        "Set": "System Core 2019 35"
+    },
+    {
+        "Title": "Fall Guy",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 1,
+        "Set": "Revised Core Set 35"
+    },
+    {
+        "Title": "False Echo",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Opening Moves 7"
+    },
+    {
+        "Title": "Falsified Credentials",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "The Devil and the Dragon 64",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Fan Site",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 1,
+        "Set": "Old Hollywood 85"
+    },
+    {
+        "Title": "Faust",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - AI",
+        "Inf": 2,
+        "Set": "The Underway 61"
+    },
+    {
+        "Title": "Fawkes",
+        "Cost": 5,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 2,
+        "Set": "Quorum 108"
+    },
+    {
+        "Title": "Fear the Masses",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run - Sabotage",
+        "Inf": 2,
+        "Set": "Fear the Masses 96"
+    },
+    {
+        "Title": "Feedback Filter",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Gear",
+        "Inf": 1,
+        "Set": "Creation and Control 37"
+    },
+    {
+        "Title": "Feint",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "Honor and Profit 34"
+    },
+    {
+        "Title": "Femme Fatale",
+        "Cost": 9,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 1,
+        "Set": "System Update 2021 22"
+    },
+    {
+        "Title": "Fencer Fueno",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Companion - Virtual",
+        "Inf": 1,
+        "Set": "Downfall 7",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Fermenter",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 2,
+        "Set": "System Gateway 7",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Fester",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 1,
+        "Set": "Up and Over 75"
+    },
+    {
+        "Title": "Film Critic",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 1,
+        "Set": "Old Hollywood 86"
+    },
+    {
+        "Title": "Finality",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "Parhelion 66"
+    },
+    {
+        "Title": "Find the Truth",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Directive - Virtual",
+        "Inf": 3,
+        "Set": "Escalation 47"
+    },
+    {
+        "Title": "First Responders",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 0,
+        "Set": "Escalation 48"
+    },
+    {
+        "Title": "Fisk Investment Seminar",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Priority",
+        "Inf": 2,
+        "Set": "The Universe of Tomorrow 105"
+    },
+    {
+        "Title": "Flame-out",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Mod",
+        "Inf": 3,
+        "Set": "Kampala Ascendent 109"
+    },
+    {
+        "Title": "Flashbang",
+        "Cost": 5,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 3,
+        "Set": "Free Mars 85"
+    },
+    {
+        "Title": "Flip Switch",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Downfall 13"
+    },
+    {
+        "Title": "Flux Capacitor",
+        "Cost": 0,
+        "Type": "Program",
+        "Subtype": "Trojan",
+        "Inf": 2,
+        "Set": "Parhelion 87"
+    },
+    {
+        "Title": "Force of Nature",
+        "Cost": 5,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 1,
+        "Set": "System Core 2019 12"
+    },
+    {
+        "Title": "Forged Activation Orders",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Sabotage",
+        "Inf": 2,
+        "Set": "System Update 2021 17"
+    },
+    {
+        "Title": "Forger",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 1,
+        "Set": "The Underway 65"
+    },
+    {
+        "Title": "Forked",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run - Sabotage",
+        "Inf": 3,
+        "Set": "Order and Chaos 37"
+    },
+    {
+        "Title": "Frame Job",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Double",
+        "Inf": 2,
+        "Set": "Opening Moves 1"
+    },
+    {
+        "Title": "Frantic Coding",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Intervention 62"
+    },
+    {
+        "Title": "Freedom Khumalo: Crypto-Anarchist",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Cyborg",
+        "Inf": null,
+        "Set": "Whispers in Nalubaale 81"
+    },
+    {
+        "Title": "Freelance Coding Contract",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Job",
+        "Inf": 1,
+        "Set": "Creation and Control 33"
+    },
+    {
+        "Title": "Friday Chip",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Chip",
+        "Inf": 2,
+        "Set": "Council of the Crest 42"
+    },
+    {
+        "Title": "Gabriel Santiago: Consummate Professional",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Cyborg",
+        "Inf": null,
+        "Set": "System Core 2019 20"
+    },
+    {
+        "Title": "Gachapon",
+        "Cost": 0,
+        "Type": "Hardware",
+        "Subtype": "Chip",
+        "Inf": 2,
+        "Set": "Uprising 69",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Game Day",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Double",
+        "Inf": 3,
+        "Set": "Breaker Bay 26"
+    },
+    {
+        "Title": "Gang Sign",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 3,
+        "Set": "The Underway 67"
+    },
+    {
+        "Title": "Garrote",
+        "Cost": 7,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 3,
+        "Set": "True Colors 65"
+    },
+    {
+        "Title": "Gauss",
+        "Cost": 2,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 2,
+        "Set": "Downfall 24"
+    },
+    {
+        "Title": "Gbahali",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 1,
+        "Set": "Council of the Crest 47"
+    },
+    {
+        "Title": "Gebrselassie",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Mod",
+        "Inf": 4,
+        "Set": "Whispers in Nalubaale 87"
+    },
+    {
+        "Title": "Gene Conditioning Shoppe",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Location",
+        "Inf": 1,
+        "Set": "The Valley 6"
+    },
+    {
+        "Title": "Ghost Runner",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Stealth - Virtual",
+        "Inf": 0,
+        "Set": "The Spaces Between 40",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Ghosttongue",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Cybernetic",
+        "Inf": 3,
+        "Set": "Midnight Sun 5"
+    },
+    {
+        "Title": "Gingerbread",
+        "Cost": 2,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker",
+        "Inf": 2,
+        "Set": "Honor and Profit 44"
+    },
+    {
+        "Title": "Globalsec Security Clearance",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 2,
+        "Set": "Data and Destiny 51"
+    },
+    {
+        "Title": "Glut Cipher",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run - Sabotage",
+        "Inf": 4,
+        "Set": "The Devil and the Dragon 61"
+    },
+    {
+        "Title": "God of War",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - AI - Virus",
+        "Inf": 3,
+        "Set": "Free Mars 82"
+    },
+    {
+        "Title": "Golden",
+        "Cost": 5,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 2,
+        "Set": "Blood Money 25"
+    },
+    {
+        "Title": "Gordian Blade",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 3,
+        "Set": "System Update 2021 33"
+    },
+    {
+        "Title": "Gorman Drip v1",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 1,
+        "Set": "Opening Moves 5",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Government Investigations",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Current",
+        "Inf": 0,
+        "Set": "Intervention 69"
+    },
+    {
+        "Title": "GPI Net Tap",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "23 Seconds 3"
+    },
+    {
+        "Title": "Grappling Hook",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Honor and Profit 45"
+    },
+    {
+        "Title": "Gravedigger",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 2,
+        "Set": "Order and Chaos 41"
+    },
+    {
+        "Title": "Grifter",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 1,
+        "Set": "Mala Tempora 46"
+    },
+    {
+        "Title": "Grimoire",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 2,
+        "Set": "Core Set 6"
+    },
+    {
+        "Title": "GS Sherman M3",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Fracter - Cloud",
+        "Inf": 2,
+        "Set": "Data and Destiny 50"
+    },
+    {
+        "Title": "GS Shrike M2",
+        "Cost": 5,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Killer - Cloud",
+        "Inf": 2,
+        "Set": "Data and Destiny 49"
+    },
+    {
+        "Title": "GS Striker M1",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Decoder - Cloud",
+        "Inf": 2,
+        "Set": "Data and Destiny 48"
+    },
+    {
+        "Title": "Guinea Pig",
+        "Cost": 4,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Reign and Reverie 3",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Guru Davinder",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 1,
+        "Set": "The Liberated Mind 84"
+    },
+    {
+        "Title": "Hacktivist Meeting",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Current",
+        "Inf": 2,
+        "Set": "Breaker Bay 21"
+    },
+    {
+        "Title": "Hades Shard",
+        "Cost": 7,
+        "Type": "Resource",
+        "Subtype": "Virtual - Source",
+        "Inf": 1,
+        "Set": "First Contact 59"
+    },
+    {
+        "Title": "Harbinger",
+        "Cost": 0,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Data and Destiny 34"
+    },
+    {
+        "Title": "Hard at Work",
+        "Cost": 5,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Second Thoughts 23"
+    },
+    {
+        "Title": "Harmony AR Therapy",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Uprising 83"
+    },
+    {
+        "Title": "Hayley Kaplan: Universal Scholar",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "G-mod",
+        "Inf": null,
+        "Set": "Breaker Bay 25"
+    },
+    {
+        "Title": "Heartbeat",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "Data and Destiny 32"
+    },
+    {
+        "Title": "Hemorrhage",
+        "Cost": 3,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 4,
+        "Set": "Revised Core Set 12"
+    },
+    {
+        "Title": "Hernando Cortez",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 1,
+        "Set": "23 Seconds 4"
+    },
+    {
+        "Title": "High-Stakes Job",
+        "Cost": 6,
+        "Type": "Event",
+        "Subtype": "Run - Job",
+        "Inf": 3,
+        "Set": "Kala Ghoda 4",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Hijacked Router",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Reign and Reverie 5"
+    },
+    {
+        "Title": "Hippo",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 5,
+        "Set": "Kampala Ascendent 103"
+    },
+    {
+        "Title": "Hippocampic Mechanocytes",
+        "Cost": 0,
+        "Type": "Hardware",
+        "Subtype": "Cybernetic",
+        "Inf": 2,
+        "Set": "Parhelion 85"
+    },
+    {
+        "Title": "Hivemind",
+        "Cost": 3,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 5,
+        "Set": "Order and Chaos 42"
+    },
+    {
+        "Title": "Hoshiko Shiro: Untold Protagonist",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "Uprising 66"
+    },
+    {
+        "Title": "Hostage",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Double",
+        "Inf": 2,
+        "Set": "System Core 2019 25"
+    },
+    {
+        "Title": "Hot Pursuit",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 2,
+        "Set": "Reign and Reverie 9"
+    },
+    {
+        "Title": "Houdini",
+        "Cost": 2,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 3,
+        "Set": "Escalation 45"
+    },
+    {
+        "Title": "HQ Interface",
+        "Cost": 4,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "System Core 2019 31"
+    },
+    {
+        "Title": "Human First",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 2,
+        "Set": "Order and Chaos 48"
+    },
+    {
+        "Title": "Hunting Grounds",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Location - Virtual",
+        "Inf": 1,
+        "Set": "Data and Destiny 35"
+    },
+    {
+        "Title": "Hush",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": "Trojan",
+        "Inf": 1,
+        "Set": "Parhelion 71"
+    },
+    {
+        "Title": "Hyperbaric",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 3,
+        "Set": "Midnight Sun 26"
+    },
+    {
+        "Title": "Hyperdriver",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "The Underway 70"
+    },
+    {
+        "Title": "I've Had Worse",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Order and Chaos 32"
+    },
+    {
+        "Title": "Iain Stirling: Retired Spook",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "Honor and Profit 28"
+    },
+    {
+        "Title": "Ice Analyzer",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 1,
+        "Set": "System Core 2019 57"
+    },
+    {
+        "Title": "Ice Carver",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 3,
+        "Set": "System Update 2021 9"
+    },
+    {
+        "Title": "Ika",
+        "Cost": 0,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Killer - Trojan",
+        "Inf": 2,
+        "Set": "Reign and Reverie 19"
+    },
+    {
+        "Title": "Immolation Script",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "Chrome City 41"
+    },
+    {
+        "Title": "Imp",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 3,
+        "Set": "System Update 2021 7"
+    },
+    {
+        "Title": "In the Groove",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Priority",
+        "Inf": 4,
+        "Set": "Downfall 20"
+    },
+    {
+        "Title": "Incubator",
+        "Cost": 3,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 3,
+        "Set": "The Source 113"
+    },
+    {
+        "Title": "Independent Thinking",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Data and Destiny 38"
+    },
+    {
+        "Title": "Indexing",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "Salvaged Memories 5"
+    },
+    {
+        "Title": "Infiltration",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Revised Core Set 55"
+    },
+    {
+        "Title": "Info Bounty",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Job",
+        "Inf": 2,
+        "Set": "Parhelion 83"
+    },
+    {
+        "Title": "Information Sifting",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "The Liberated Mind 79"
+    },
+    {
+        "Title": "Inject",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Up and Over 73"
+    },
+    {
+        "Title": "Injection Attack",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 0,
+        "Set": "23 Seconds 9"
+    },
+    {
+        "Title": "Inside Job",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "System Update 2021 18"
+    },
+    {
+        "Title": "Inside Man",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 0,
+        "Set": "A Study in Static 68"
+    },
+    {
+        "Title": "Insight",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Double",
+        "Inf": 2,
+        "Set": "Reign and Reverie 16"
+    },
+    {
+        "Title": "Interdiction",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Current",
+        "Inf": 0,
+        "Set": "Martial Law 87"
+    },
+    {
+        "Title": "Inti",
+        "Cost": 0,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 1,
+        "Set": "Creation and Control 48"
+    },
+    {
+        "Title": "Into the Depths",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "Midnight Sun 23",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Inversificator",
+        "Cost": 6,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 3,
+        "Set": "Earth's Scion 48"
+    },
+    {
+        "Title": "Investigative Journalism",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Order and Chaos 49"
+    },
+    {
+        "Title": "Investigator Inez Delgado",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 0,
+        "Set": "Terminal Directive Campaign 15"
+    },
+    {
+        "Title": "Investigator Inez Delgado 2",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 0,
+        "Set": "Terminal Directive Campaign 16"
+    },
+    {
+        "Title": "Investigator Inez Delgado 3",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 0,
+        "Set": "Terminal Directive Campaign 17"
+    },
+    {
+        "Title": "Investigator Inez Delgado 4",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 0,
+        "Set": "Terminal Directive Campaign 18"
+    },
+    {
+        "Title": "Isolation",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Downfall 1"
+    },
+    {
+        "Title": "Itinerant Protesters",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Current",
+        "Inf": 2,
+        "Set": "Order and Chaos 33"
+    },
+    {
+        "Title": "Ixodidae",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 2,
+        "Set": "The Source 114"
+    },
+    {
+        "Title": "Jackpot!",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Whispers in Nalubaale 90"
+    },
+    {
+        "Title": "Jailbreak",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 0,
+        "Set": "System Gateway 28"
+    },
+    {
+        "Title": "Jak Sinclair",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 2,
+        "Set": "Data and Destiny 52"
+    },
+    {
+        "Title": "Jamie \"Bzzz\" Micken: Techno Savant",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "Draft 9"
+    },
+    {
+        "Title": "Jarogniew Mercs",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Clan - Connection",
+        "Inf": 2,
+        "Set": "Blood and Water 62"
+    },
+    {
+        "Title": "Jesminder Sareen: Girl Behind the Curtain",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "Kala Ghoda 6"
+    },
+    {
+        "Title": "John Masanori",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 0,
+        "Set": "System Core 2019 64"
+    },
+    {
+        "Title": "Joshua B.",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 3,
+        "Set": "Cyber Exodus 42"
+    },
+    {
+        "Title": "K2CP Turbine",
+        "Cost": 4,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 4,
+        "Set": "Parhelion 90"
+    },
+    {
+        "Title": "Kabonesa Wu: Netspace Thrillseeker",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "G-mod",
+        "Inf": null,
+        "Set": "Down the White Nile 25"
+    },
+    {
+        "Title": "Kasi String",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 0,
+        "Set": "Kampala Ascendent 111"
+    },
+    {
+        "Title": "Kate \"Mac\" McCaffrey: Digital Tinker",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "Core Set 33"
+    },
+    {
+        "Title": "Kati Jones",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 0,
+        "Set": "System Core 2019 65"
+    },
+    {
+        "Title": "Katorga Breakout",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "Parhelion 67"
+    },
+    {
+        "Title": "Keiko",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": "Console - Companion",
+        "Inf": 3,
+        "Set": "Uprising 70"
+    },
+    {
+        "Title": "Ken \"Express\" Tenma: Disappeared Clone",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Clone",
+        "Inf": null,
+        "Set": "System Update 2021 13"
+    },
+    {
+        "Title": "Keros Mcintyre",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 3,
+        "Set": "Blood and Water 65"
+    },
+    {
+        "Title": "Keyhole",
+        "Cost": 4,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "True Colors 61"
+    },
+    {
+        "Title": "Khan: Savvy Skiptracer",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "Blood Money 27"
+    },
+    {
+        "Title": "Khusyuk",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 2,
+        "Set": "Downfall 21"
+    },
+    {
+        "Title": "Knifed",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run - Sabotage",
+        "Inf": 3,
+        "Set": "Order and Chaos 38"
+    },
+    {
+        "Title": "Knight",
+        "Cost": 2,
+        "Type": "Program",
+        "Strength": 7,
+        "Subtype": "Icebreaker - AI - Caïssa - Trojan",
+        "Inf": 2,
+        "Set": "Mala Tempora 43"
+    },
+    {
+        "Title": "Knobkierie",
+        "Cost": 5,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "The Devil and the Dragon 62"
+    },
+    {
+        "Title": "Kongamato",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 1,
+        "Set": "Down the White Nile 27"
+    },
+    {
+        "Title": "Kraken",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Humanity's Shadow 90"
+    },
+    {
+        "Title": "Kyuban",
+        "Cost": 0,
+        "Type": "Program",
+        "Subtype": "Trojan",
+        "Inf": 1,
+        "Set": "Reign and Reverie 20",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Laamb",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 2,
+        "Set": "Whispers in Nalubaale 86"
+    },
+    {
+        "Title": "Labor Rights",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Magnum Opus Reprint 1",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Laguna Velasco District",
+        "Cost": 5,
+        "Type": "Resource",
+        "Subtype": "Location - Ritzy",
+        "Inf": 2,
+        "Set": "Terminal Directive Cards 22"
+    },
+    {
+        "Title": "Lamprey",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 2,
+        "Set": "System Core 2019 14"
+    },
+    {
+        "Title": "Laramy Fisk: Savvy Investor",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "The Universe of Tomorrow 104"
+    },
+    {
+        "Title": "Lat: Ethical Freelancer",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "Downfall 19"
+    },
+    {
+        "Title": "Lawyer Up",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Double",
+        "Inf": 1,
+        "Set": "True Colors 63"
+    },
+    {
+        "Title": "Lean and Mean",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 1,
+        "Set": "Free Mars 86"
+    },
+    {
+        "Title": "Leave No Trace",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "Free Mars 83"
+    },
+    {
+        "Title": "Leech",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 1,
+        "Set": "System Gateway 8"
+    },
+    {
+        "Title": "Leela Patel: Trained Pragmatist",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "System Core 2019 21"
+    },
+    {
+        "Title": "Legwork",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 2,
+        "Set": "System Update 2021 19"
+    },
+    {
+        "Title": "Lemuria Codecracker",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Core Set 23"
+    },
+    {
+        "Title": "Leprechaun",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": "Daemon",
+        "Inf": 2,
+        "Set": "Upstalk 19"
+    },
+    {
+        "Title": "Leverage",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "True Colors 64"
+    },
+    {
+        "Title": "Leviathan",
+        "Cost": 6,
+        "Type": "Program",
+        "Strength": 3,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 2,
+        "Set": "Second Thoughts 26"
+    },
+    {
+        "Title": "Levy Advanced Research Lab",
+        "Cost": 4,
+        "Type": "Resource",
+        "Subtype": "Location - Ritzy",
+        "Inf": 2,
+        "Set": "Terminal Directive Cards 21"
+    },
+    {
+        "Title": "Levy AR Lab Access",
+        "Cost": 5,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Creation and Control 35"
+    },
+    {
+        "Title": "Lewi Guilherme",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 4,
+        "Set": "Sovereign Sight 5"
+    },
+    {
+        "Title": "Liberated Account",
+        "Cost": 6,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "System Update 2021 10",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Liberated Chela",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 2,
+        "Set": "The Liberated Mind 81"
+    },
+    {
+        "Title": "Light the Fire!",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Sabotage",
+        "Inf": 2,
+        "Set": "Midnight Sun 9"
+    },
+    {
+        "Title": "Liza Talking Thunder: Prominent Legislator",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "G-mod",
+        "Inf": null,
+        "Set": "Reign and Reverie 8"
+    },
+    {
+        "Title": "LLDS Energy Regulator",
+        "Cost": 0,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "The Spaces Between 39"
+    },
+    {
+        "Title": "LLDS Memory Diamond",
+        "Cost": 4,
+        "Type": "Hardware",
+        "Subtype": "Mod",
+        "Inf": 1,
+        "Set": "Terminal Directive Cards 15"
+    },
+    {
+        "Title": "LLDS Processor",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Chip",
+        "Inf": 1,
+        "Set": "True Colors 66"
+    },
+    {
+        "Title": "Lockpick",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Chip - Stealth",
+        "Inf": 3,
+        "Set": "Opening Moves 6"
+    },
+    {
+        "Title": "Logic Bomb",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 5,
+        "Set": "Whispers in Nalubaale 89"
+    },
+    {
+        "Title": "Logos",
+        "Cost": 4,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 2,
+        "Set": "Honor and Profit 37"
+    },
+    {
+        "Title": "London Library",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Location",
+        "Inf": 2,
+        "Set": "Breaker Bay 29"
+    },
+    {
+        "Title": "Los: Data Hijacker",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "G-mod",
+        "Inf": null,
+        "Set": "Station One 25"
+    },
+    {
+        "Title": "Lucky Charm",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Downfall 14"
+    },
+    {
+        "Title": "Lucky Find",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": "Double",
+        "Inf": 2,
+        "Set": "Salvaged Memories 7"
+    },
+    {
+        "Title": "Lustig",
+        "Cost": 5,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 3,
+        "Set": "Terminal Directive Cards 7"
+    },
+    {
+        "Title": "Mâché",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Reign and Reverie 18"
+    },
+    {
+        "Title": "Mad Dash",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 0,
+        "Set": "Daedalus Complex 8"
+    },
+    {
+        "Title": "Magnum Opus",
+        "Cost": 5,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Revised Core Set 50",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Making an Entrance",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Priority",
+        "Inf": 2,
+        "Set": "Salsette Island 58"
+    },
+    {
+        "Title": "Makler",
+        "Cost": 5,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 2,
+        "Set": "Uprising 80"
+    },
+    {
+        "Title": "Mammon",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - AI",
+        "Inf": 2,
+        "Set": "Terminal Directive Cards 9"
+    },
+    {
+        "Title": "Mantle",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": "Stealth",
+        "Inf": 2,
+        "Set": "Uprising 88",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Marathon",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 5,
+        "Set": "Council of the Crest 46"
+    },
+    {
+        "Title": "Marjanah",
+        "Cost": 0,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 1,
+        "Set": "System Gateway 16"
+    },
+    {
+        "Title": "Marrow",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Console - Cybernetic",
+        "Inf": 2,
+        "Set": "Midnight Sun 6"
+    },
+    {
+        "Title": "Mars for Martians",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Priority",
+        "Inf": 1,
+        "Set": "Free Mars 81"
+    },
+    {
+        "Title": "Mass Install",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Honor and Profit 51"
+    },
+    {
+        "Title": "Mass-Driver",
+        "Cost": 8,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 3,
+        "Set": "Blood and Water 67"
+    },
+    {
+        "Title": "Masterwork (v37)",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 4,
+        "Set": "Downfall 15"
+    },
+    {
+        "Title": "Matryoshka",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - AI",
+        "Inf": 0,
+        "Set": "Parhelion 94"
+    },
+    {
+        "Title": "Māui",
+        "Cost": 5,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 2,
+        "Set": "Blood and Water 63"
+    },
+    {
+        "Title": "Maven",
+        "Cost": 5,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - AI",
+        "Inf": 3,
+        "Set": "Free Mars 87"
+    },
+    {
+        "Title": "Maw",
+        "Cost": 6,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "Daedalus Complex 2"
+    },
+    {
+        "Title": "Maxwell James",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 1,
+        "Set": "Terminal Directive Cards 11"
+    },
+    {
+        "Title": "MaxX: Maximum Punk Rock",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "G-mod",
+        "Inf": null,
+        "Set": "Order and Chaos 29"
+    },
+    {
+        "Title": "Maya",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "Kala Ghoda 7"
+    },
+    {
+        "Title": "Mayfly",
+        "Cost": 1,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - AI",
+        "Inf": 0,
+        "Set": "System Gateway 32"
+    },
+    {
+        "Title": "Medium",
+        "Cost": 3,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 3,
+        "Set": "Salvaged Memories 1"
+    },
+    {
+        "Title": "MemStrips",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": "Chip",
+        "Inf": 2,
+        "Set": "Order and Chaos 46"
+    },
+    {
+        "Title": "Mimic",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 3,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 1,
+        "Set": "System Update 2021 8"
+    },
+    {
+        "Title": "Mind's Eye",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "Reign and Reverie 17"
+    },
+    {
+        "Title": "Mining Accident",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Crimson Dust 101",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Mirror",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "23 Seconds 5"
+    },
+    {
+        "Title": "Misdirection",
+        "Cost": 0,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Martial Law 85"
+    },
+    {
+        "Title": "Miss Bones",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 2,
+        "Set": "Reign and Reverie 14",
+        "Money": "Yes"
+    },
+    {
+        "Title": "MKUltra",
+        "Cost": 2,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 2,
+        "Set": "Martial Law 81"
+    },
+    {
+        "Title": "Möbius",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 1,
+        "Set": "Station One 24"
+    },
+    {
+        "Title": "Modded",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Mod",
+        "Inf": 2,
+        "Set": "System Core 2019 43",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Mongoose",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 2,
+        "Set": "Kala Ghoda 5"
+    },
+    {
+        "Title": "Monolith",
+        "Cost": 18,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "Creation and Control 36"
+    },
+    {
+        "Title": "Morning Star",
+        "Cost": 8,
+        "Type": "Program",
+        "Strength": 5,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 4,
+        "Set": "Revised Core Set 14"
+    },
+    {
+        "Title": "Moshing",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Uprising 67",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Motivation",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Opening Moves 8"
+    },
+    {
+        "Title": "Mr. Li",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 2,
+        "Set": "Revised Core Set 36"
+    },
+    {
+        "Title": "Mu Safecracker",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Uprising 76"
+    },
+    {
+        "Title": "Muertos Gang Member",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 2,
+        "Set": "The Underway 68"
+    },
+    {
+        "Title": "Multithreader",
+        "Cost": 3,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Data and Destiny 40",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Muresh Bodysuit",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Gear",
+        "Inf": 1,
+        "Set": "Cyber Exodus 44"
+    },
+    {
+        "Title": "Musaazi",
+        "Cost": 1,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Killer - Virus",
+        "Inf": 2,
+        "Set": "Kampala Ascendent 102"
+    },
+    {
+        "Title": "Mutual Favor",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "System Gateway 11",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Mystic Maemi",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Companion - Virtual",
+        "Inf": 2,
+        "Set": "Uprising Booster Pack 1"
+    },
+    {
+        "Title": "Na'Not'K",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 1,
+        "Set": "Free Mars 88"
+    },
+    {
+        "Title": "Nanuq",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 3,
+        "Subtype": "Icebreaker - AI",
+        "Inf": 5,
+        "Set": "Parhelion 88"
+    },
+    {
+        "Title": "Nasir Meidan: Cyber Explorer",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Cyborg",
+        "Inf": null,
+        "Set": "Upstalk 17"
+    },
+    {
+        "Title": "Nathaniel \"Gnat\" Hall: One-of-a-Kind",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "Reign and Reverie 1"
+    },
+    {
+        "Title": "Nero Severn: Information Broker",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "Democracy and Dogma 40"
+    },
+    {
+        "Title": "Nerve Agent",
+        "Cost": 3,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 2,
+        "Set": "Cyber Exodus 41"
+    },
+    {
+        "Title": "Net Celebrity",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Current",
+        "Inf": 1,
+        "Set": "The Spaces Between 38"
+    },
+    {
+        "Title": "Net Mercur",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Virtual - Stealth",
+        "Inf": 3,
+        "Set": "Escalation 46"
+    },
+    {
+        "Title": "Net Shield",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Core Set 45"
+    },
+    {
+        "Title": "Net-Ready Eyes",
+        "Cost": 0,
+        "Type": "Hardware",
+        "Subtype": "Cybernetic",
+        "Inf": 2,
+        "Set": "Chrome City 47"
+    },
+    {
+        "Title": "NetChip",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Consumer-grade - Chip",
+        "Inf": 2,
+        "Set": "Business First 24"
+    },
+    {
+        "Title": "Network Exchange",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 2,
+        "Set": "Daedalus Complex 7"
+    },
+    {
+        "Title": "Networking",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "System Update 2021 20"
+    },
+    {
+        "Title": "Neutralize All Threats",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Directive - Virtual",
+        "Inf": 3,
+        "Set": "Data and Destiny 43"
+    },
+    {
+        "Title": "New Angeles City Hall",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Location - Government",
+        "Inf": 0,
+        "Set": "Future Proof 109"
+    },
+    {
+        "Title": "Nfr",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 3,
+        "Set": "Blood Money 23"
+    },
+    {
+        "Title": "Nga",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Parhelion 72"
+    },
+    {
+        "Title": "Ninja",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 2,
+        "Set": "Core Set 27"
+    },
+    {
+        "Title": "No Free Lunch",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Midnight Sun 20",
+        "Money": "Yes"
+    },
+    {
+        "Title": "No One Home",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 1,
+        "Set": "Council of the Crest 45"
+    },
+    {
+        "Title": "Noise: Hacker Extraordinaire",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "G-mod",
+        "Inf": null,
+        "Set": "Core Set 1"
+    },
+    {
+        "Title": "Notoriety",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "System Core 2019 44"
+    },
+    {
+        "Title": "Nova Initiumia: Catalyst \u0026 Impetus",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Digital - Natural",
+        "Inf": null,
+        "Set": "Parhelion 93"
+    },
+    {
+        "Title": "Null: Whistleblower",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "23 Seconds 2"
+    },
+    {
+        "Title": "Num",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 8,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 3,
+        "Set": "Parhelion 73"
+    },
+    {
+        "Title": "Nyashia",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "The Devil and the Dragon 67"
+    },
+    {
+        "Title": "Nyusha \"Sable\" Sintashta: Symphonic Prodigy",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "G-mod",
+        "Inf": null,
+        "Set": "Midnight Sun 11"
+    },
+    {
+        "Title": "Obelus",
+        "Cost": 4,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "Escalation 41"
+    },
+    {
+        "Title": "Odore",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 2,
+        "Set": "Uprising 71"
+    },
+    {
+        "Title": "Off-Campus Apartment",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Location",
+        "Inf": 1,
+        "Set": "Breaker Bay 22"
+    },
+    {
+        "Title": "Office Supplies",
+        "Cost": 4,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Reign and Reverie 24"
+    },
+    {
+        "Title": "Officer Frank",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 0,
+        "Set": "Terminal Directive Cards 24"
+    },
+    {
+        "Title": "Omar Keung: Conspiracy Theorist",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "Escalation 43"
+    },
+    {
+        "Title": "Omega",
+        "Cost": 7,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - AI",
+        "Inf": 3,
+        "Set": "Fear and Loathing 88"
+    },
+    {
+        "Title": "Omni-drive",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": "Gear",
+        "Inf": 3,
+        "Set": "Creation and Control 39"
+    },
+    {
+        "Title": "On the Lam",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": "Condition",
+        "Inf": 2,
+        "Set": "Martial Law 82"
+    },
+    {
+        "Title": "Oracle May",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 1,
+        "Set": "Honor and Profit 54"
+    },
+    {
+        "Title": "Orca",
+        "Cost": 10,
+        "Type": "Program",
+        "Strength": 3,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 2,
+        "Set": "Parhelion 89"
+    },
+    {
+        "Title": "Order of Sol",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Location",
+        "Inf": 1,
+        "Set": "First Contact 58"
+    },
+    {
+        "Title": "Origami",
+        "Cost": 0,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Up and Over 74"
+    },
+    {
+        "Title": "Out of the Ashes",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 2,
+        "Set": "The Liberated Mind 80"
+    },
+    {
+        "Title": "Overclock",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 0,
+        "Set": "System Gateway 29",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Overmind",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - AI",
+        "Inf": 0,
+        "Set": "Honor and Profit 53"
+    },
+    {
+        "Title": "PAD Tap",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Kampala Ascendent 106",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Paige Piper",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 2,
+        "Set": "The Valley 2"
+    },
+    {
+        "Title": "Paintbrush",
+        "Cost": 3,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 4,
+        "Set": "Double Time 108"
+    },
+    {
+        "Title": "Paladin Poemu",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Companion - Virtual",
+        "Inf": 3,
+        "Set": "Uprising 73",
+        "Money": "Yes"
+    },
+    {
+        "Title": "PAN-Weave",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Cybernetic",
+        "Inf": 4,
+        "Set": "Midnight Sun 14"
+    },
+    {
+        "Title": "Panchatantra",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Kala Ghoda 8"
+    },
+    {
+        "Title": "Pantograph",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "System Gateway 23"
+    },
+    {
+        "Title": "Paparazzi",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Old Hollywood 87"
+    },
+    {
+        "Title": "Paper Tripping",
+        "Cost": 4,
+        "Type": "Event",
+        "Subtype": "Priority",
+        "Inf": 2,
+        "Set": "Upstalk 15"
+    },
+    {
+        "Title": "Paperclip",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 3,
+        "Set": "Blood Money 24"
+    },
+    {
+        "Title": "Paragon",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 2,
+        "Set": "System Core 2019 32"
+    },
+    {
+        "Title": "Parasite",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": "Virus - Trojan",
+        "Inf": 2,
+        "Set": "Salvaged Memories 2"
+    },
+    {
+        "Title": "Paricia",
+        "Cost": 0,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "System Update 2021 34",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Passport",
+        "Cost": 1,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 2,
+        "Set": "Honor and Profit 46"
+    },
+    {
+        "Title": "Patchwork",
+        "Cost": 4,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "System Core 2019 9"
+    },
+    {
+        "Title": "Patron",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 3,
+        "Set": "Salsette Island 63"
+    },
+    {
+        "Title": "Paule's Café",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Location - Seedy",
+        "Inf": 4,
+        "Set": "Uprising 92"
+    },
+    {
+        "Title": "Pawn",
+        "Cost": 0,
+        "Type": "Program",
+        "Subtype": "Caïssa - Trojan",
+        "Inf": 1,
+        "Set": "Opening Moves 2"
+    },
+    {
+        "Title": "Peace in Our Time",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Priority",
+        "Inf": 1,
+        "Set": "Quorum 109",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Peacock",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 2,
+        "Set": "Revised Core Set 30"
+    },
+    {
+        "Title": "Pelangi",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 3,
+        "Set": "Downfall 25"
+    },
+    {
+        "Title": "Pennyshaver",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "System Gateway 14"
+    },
+    {
+        "Title": "Penrose",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Decoder - Fracter",
+        "Inf": 2,
+        "Set": "Uprising 89"
+    },
+    {
+        "Title": "Penumbral Toolkit",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Stealth - Virtual",
+        "Inf": 2,
+        "Set": "Uprising 81"
+    },
+    {
+        "Title": "Peregrine",
+        "Cost": 5,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 2,
+        "Set": "Escalation 44"
+    },
+    {
+        "Title": "Persephone",
+        "Cost": 5,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 3,
+        "Set": "Earth's Scion 42"
+    },
+    {
+        "Title": "Personal Workshop",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Location",
+        "Inf": 4,
+        "Set": "Cyber Exodus 49"
+    },
+    {
+        "Title": "Pheromones",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 2,
+        "Set": "Revised Core Set 31"
+    },
+    {
+        "Title": "Pinhole Threading",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 1,
+        "Set": "Midnight Sun 13"
+    },
+    {
+        "Title": "Pipeline",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 1,
+        "Set": "System Core 2019 55"
+    },
+    {
+        "Title": "Plague",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 2,
+        "Set": "Down the White Nile 22"
+    },
+    {
+        "Title": "Planned Assault",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Double",
+        "Inf": 2,
+        "Set": "Honor and Profit 36"
+    },
+    {
+        "Title": "Plascrete Carapace",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": "Gear",
+        "Inf": 0,
+        "Set": "What Lies Ahead 9"
+    },
+    {
+        "Title": "Poison Vial",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Weapon",
+        "Inf": 2,
+        "Set": "Parhelion 77"
+    },
+    {
+        "Title": "Political Graffiti",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "Democracy and Dogma 39"
+    },
+    {
+        "Title": "Political Operative",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 1,
+        "Set": "Democracy and Dogma 43"
+    },
+    {
+        "Title": "Polyhistor",
+        "Cost": 4,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 4,
+        "Set": "Terminal Directive Cards 5"
+    },
+    {
+        "Title": "Populist Rally",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Business First 26"
+    },
+    {
+        "Title": "Power Nap",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Double",
+        "Inf": 2,
+        "Set": "Double Time 107"
+    },
+    {
+        "Title": "Power Tap",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Upstalk 16"
+    },
+    {
+        "Title": "Power to the People",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Priority",
+        "Inf": 2,
+        "Set": "The Universe of Tomorrow 101"
+    },
+    {
+        "Title": "Prepaid VoicePAD",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Gear",
+        "Inf": 0,
+        "Set": "System Update 2021 38",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Prey",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 2,
+        "Set": "Data and Destiny 31"
+    },
+    {
+        "Title": "Process Automation",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Terminal Directive Cards 23"
+    },
+    {
+        "Title": "Professional Contacts",
+        "Cost": 5,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 2,
+        "Set": "System Update 2021 36",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Progenitor",
+        "Cost": 0,
+        "Type": "Program",
+        "Subtype": "Daemon",
+        "Inf": 2,
+        "Set": "Order and Chaos 43"
+    },
+    {
+        "Title": "Prognostic Q-Loop",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Chip",
+        "Inf": 3,
+        "Set": "Uprising 77"
+    },
+    {
+        "Title": "Propeller",
+        "Cost": 1,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 2,
+        "Set": "Midnight Sun 27"
+    },
+    {
+        "Title": "Psych Mike",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 4,
+        "Set": "Reign and Reverie 21"
+    },
+    {
+        "Title": "Public Sympathy",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Cyber Exodus 50"
+    },
+    {
+        "Title": "Public Terminal",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Honor and Profit 38"
+    },
+    {
+        "Title": "Puffer",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 4,
+        "Set": "Sovereign Sight 4"
+    },
+    {
+        "Title": "Push Your Luck",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Honor and Profit 47"
+    },
+    {
+        "Title": "Pushing the Envelope",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 2,
+        "Set": "Daedalus Complex 1"
+    },
+    {
+        "Title": "Q-Coherence Chip",
+        "Cost": 0,
+        "Type": "Hardware",
+        "Subtype": "Chip",
+        "Inf": 0,
+        "Set": "Honor and Profit 52"
+    },
+    {
+        "Title": "Qianju PT",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Vehicle",
+        "Inf": 0,
+        "Set": "Order and Chaos 54"
+    },
+    {
+        "Title": "Quality Time",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Humanity's Shadow 87"
+    },
+    {
+        "Title": "Queen's Gambit",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Double",
+        "Inf": 3,
+        "Set": "System Core 2019 3",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Quest Completed",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "System Core 2019 4"
+    },
+    {
+        "Title": "Quetzal: Free Spirit",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "G-mod",
+        "Inf": null,
+        "Set": "System Update 2021 1"
+    },
+    {
+        "Title": "R\u0026D Interface",
+        "Cost": 4,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "System Core 2019 50"
+    },
+    {
+        "Title": "Rabbit Hole",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Link",
+        "Inf": 1,
+        "Set": "Revised Core Set 46"
+    },
+    {
+        "Title": "Rachel Beckman",
+        "Cost": 8,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 1,
+        "Set": "First Contact 60"
+    },
+    {
+        "Title": "Raindrops Cut Stone",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "Parhelion 68"
+    },
+    {
+        "Title": "Ramujan-reliant 550 BMI",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Consumer-grade",
+        "Inf": 1,
+        "Set": "Kala Ghoda 2"
+    },
+    {
+        "Title": "Raymond Flint",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 0,
+        "Set": "Mala Tempora 49"
+    },
+    {
+        "Title": "Reaver",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 4,
+        "Set": "Martial Law 86"
+    },
+    {
+        "Title": "Rebirth",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "The Liberated Mind 83",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Reboot",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 5,
+        "Set": "Reign and Reverie 23"
+    },
+    {
+        "Title": "Reclaim",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Kampala Ascendent 107"
+    },
+    {
+        "Title": "Recon",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 2,
+        "Set": "Second Thoughts 24"
+    },
+    {
+        "Title": "Recon Drone",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Quorum 103"
+    },
+    {
+        "Title": "Record Reconstructor",
+        "Cost": 0,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Second Thoughts 28"
+    },
+    {
+        "Title": "Red Team",
+        "Cost": 5,
+        "Type": "Resource",
+        "Subtype": "Job",
+        "Inf": 2,
+        "Set": "System Gateway 18"
+    },
+    {
+        "Title": "Reflection",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 2,
+        "Set": "Democracy and Dogma 41"
+    },
+    {
+        "Title": "Refractor",
+        "Cost": 1,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 2,
+        "Set": "First Contact 57"
+    },
+    {
+        "Title": "Reina Roja: Freedom Fighter",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Cyborg - G-mod",
+        "Inf": null,
+        "Set": "System Update 2021 2"
+    },
+    {
+        "Title": "Rejig",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Downfall 29"
+    },
+    {
+        "Title": "René \"Loup\" Arcemont: Party Animal",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "G-mod",
+        "Inf": null,
+        "Set": "System Gateway 1"
+    },
+    {
+        "Title": "Replicator",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Humanity's Shadow 88"
+    },
+    {
+        "Title": "Reprise",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "Parhelion 76"
+    },
+    {
+        "Title": "Reshape",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 4,
+        "Set": "Crimson Dust 107"
+    },
+    {
+        "Title": "Respirocytes",
+        "Cost": 0,
+        "Type": "Hardware",
+        "Subtype": "Cybernetic",
+        "Inf": 3,
+        "Set": "Crimson Dust 102"
+    },
+    {
+        "Title": "Retrieval Run",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 2,
+        "Set": "System Update 2021 4"
+    },
+    {
+        "Title": "Revolver",
+        "Cost": 2,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Killer - Weapon",
+        "Inf": 3,
+        "Set": "Midnight Sun 18"
+    },
+    {
+        "Title": "Rezeki",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Downfall 26",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Rielle \"Kit\" Peddler: Transhuman",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Cyborg",
+        "Inf": null,
+        "Set": "System Update 2021 26"
+    },
+    {
+        "Title": "Rigged Results",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Fear the Masses 102"
+    },
+    {
+        "Title": "Rigging Up",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Mod",
+        "Inf": 3,
+        "Set": "Midnight Sun 24",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Rip Deal",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 1,
+        "Set": "Free Mars 84"
+    },
+    {
+        "Title": "RNG Key",
+        "Cost": 0,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Down the White Nile 29"
+    },
+    {
+        "Title": "Rogue Trading",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Job",
+        "Inf": 2,
+        "Set": "The Devil and the Dragon 65",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Rolodex",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 1,
+        "Set": "Old Hollywood 84"
+    },
+    {
+        "Title": "Rook",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": "Caïssa - Trojan",
+        "Inf": 2,
+        "Set": "Opening Moves 3"
+    },
+    {
+        "Title": "Rosetta 2.0",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 4,
+        "Set": "Earth's Scion 45"
+    },
+    {
+        "Title": "Rubicon Switch",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Earth's Scion 43"
+    },
+    {
+        "Title": "Rumor Mill",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Current",
+        "Inf": 2,
+        "Set": "Blood Money 22"
+    },
+    {
+        "Title": "Run Amok",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": "Run - Sabotage",
+        "Inf": 3,
+        "Set": "System Core 2019 6"
+    },
+    {
+        "Title": "Running Hot",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Midnight Sun 3"
+    },
+    {
+        "Title": "Running Interference",
+        "Cost": 4,
+        "Type": "Event",
+        "Subtype": "Double - Run",
+        "Inf": 4,
+        "Set": "Mala Tempora 44"
+    },
+    {
+        "Title": "Sacrificial Clone",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 4,
+        "Set": "Order and Chaos 50"
+    },
+    {
+        "Title": "Sacrificial Construct",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Remote",
+        "Inf": 1,
+        "Set": "Revised Core Set 54"
+    },
+    {
+        "Title": "Sadyojata",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - AI - Deva",
+        "Inf": 2,
+        "Set": "Democracy and Dogma 44"
+    },
+    {
+        "Title": "Safety First",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Directive - Virtual",
+        "Inf": 3,
+        "Set": "Data and Destiny 44"
+    },
+    {
+        "Title": "Sage",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - Decoder - Fracter",
+        "Inf": 3,
+        "Set": "The Source 117"
+    },
+    {
+        "Title": "Sahasrara",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Creation and Control 47"
+    },
+    {
+        "Title": "Saker",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 2,
+        "Set": "Intervention 64"
+    },
+    {
+        "Title": "Salsette Slums",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Location - Seedy",
+        "Inf": 2,
+        "Set": "Salsette Island 59"
+    },
+    {
+        "Title": "Salvaged Vanadis Armory",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Clan",
+        "Inf": 3,
+        "Set": "Crimson Dust 103"
+    },
+    {
+        "Title": "Same Old Thing",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Creation and Control 54"
+    },
+    {
+        "Title": "Satellite Uplink",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Trace Amount 23"
+    },
+    {
+        "Title": "Savant",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Killer - Decoder",
+        "Inf": 3,
+        "Set": "Terminal Directive Cards 18"
+    },
+    {
+        "Title": "Savoir-faire",
+        "Cost": 0,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Double Time 105"
+    },
+    {
+        "Title": "Scavenge",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Creation and Control 34"
+    },
+    {
+        "Title": "Scheherazade",
+        "Cost": 0,
+        "Type": "Program",
+        "Subtype": "Daemon",
+        "Inf": 1,
+        "Set": "Second Thoughts 22"
+    },
+    {
+        "Title": "Scrubbed",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Current",
+        "Inf": 2,
+        "Set": "The Spaces Between 34"
+    },
+    {
+        "Title": "Scrubber",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection - Seedy",
+        "Inf": 1,
+        "Set": "System Update 2021 11",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Security Chip",
+        "Cost": 0,
+        "Type": "Hardware",
+        "Subtype": "Chip",
+        "Inf": 1,
+        "Set": "Data and Destiny 46"
+    },
+    {
+        "Title": "Security Leak",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Current",
+        "Inf": 0,
+        "Set": "Terminal Directive Campaign 24"
+    },
+    {
+        "Title": "Security Nexus",
+        "Cost": 8,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "Data and Destiny 47"
+    },
+    {
+        "Title": "Security Testing",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Job",
+        "Inf": 3,
+        "Set": "System Update 2021 24",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Self-modifying Code",
+        "Cost": 0,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Uprising 90"
+    },
+    {
+        "Title": "Severnius Stim Implant",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Cybernetic",
+        "Inf": 4,
+        "Set": "Station One 21"
+    },
+    {
+        "Title": "Shadow Team",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 0,
+        "Set": "Terminal Directive Campaign 23"
+    },
+    {
+        "Title": "Sharpshooter",
+        "Cost": 1,
+        "Type": "Program",
+        "Strength": 3,
+        "Subtype": "Icebreaker",
+        "Inf": 1,
+        "Set": "True Colors 67"
+    },
+    {
+        "Title": "Shiv",
+        "Cost": 0,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - Killer - Cloud",
+        "Inf": 2,
+        "Set": "The Underway 66"
+    },
+    {
+        "Title": "Showing Off",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "Order and Chaos 34"
+    },
+    {
+        "Title": "Şifr",
+        "Cost": 5,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 1,
+        "Set": "Quorum 101"
+    },
+    {
+        "Title": "Silencer",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Chip - Stealth",
+        "Inf": 3,
+        "Set": "Double Time 104"
+    },
+    {
+        "Title": "Silhouette: Stealth Operative",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "Honor and Profit 30"
+    },
+    {
+        "Title": "Simulchip",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Chip",
+        "Inf": 2,
+        "Set": "Uprising 85"
+    },
+    {
+        "Title": "Singularity",
+        "Cost": 4,
+        "Type": "Event",
+        "Subtype": "Double - Run",
+        "Inf": 3,
+        "Set": "Revised Core Set 4"
+    },
+    {
+        "Title": "Skulljack",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Cybernetic",
+        "Inf": 2,
+        "Set": "Chrome City 42"
+    },
+    {
+        "Title": "Slipstream",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 2,
+        "Set": "Whispers in Nalubaale 85"
+    },
+    {
+        "Title": "Smartware Distributor",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 0,
+        "Set": "System Gateway 33",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Sneakdoor Beta",
+        "Cost": 4,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "System Update 2021 23"
+    },
+    {
+        "Title": "Sneakdoor Prime A",
+        "Cost": 6,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Terminal Directive Campaign 27"
+    },
+    {
+        "Title": "Sneakdoor Prime B",
+        "Cost": 6,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Terminal Directive Campaign 28"
+    },
+    {
+        "Title": "Snitch",
+        "Cost": 3,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Cyber Exodus 45"
+    },
+    {
+        "Title": "Snowball",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 2,
+        "Set": "Trace Amount 27"
+    },
+    {
+        "Title": "Social Engineering",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Priority",
+        "Inf": 2,
+        "Set": "Upstalk 18"
+    },
+    {
+        "Title": "Spark of Inspiration",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": "Mod",
+        "Inf": 3,
+        "Set": "Parhelion 84"
+    },
+    {
+        "Title": "Spear Phishing",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "System Core 2019 29"
+    },
+    {
+        "Title": "Spec Work",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Job",
+        "Inf": 1,
+        "Set": "Downfall 22",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Special Order",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "System Core 2019 30"
+    },
+    {
+        "Title": "Spike",
+        "Cost": 1,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - Fracter - Cloud",
+        "Inf": 2,
+        "Set": "The Valley 4"
+    },
+    {
+        "Title": "Spinal Modem",
+        "Cost": 4,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 2,
+        "Set": "Revised Core Set 7"
+    },
+    {
+        "Title": "Spoilers",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 3,
+        "Set": "Old Hollywood 82"
+    },
+    {
+        "Title": "Spooned",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run - Sabotage",
+        "Inf": 3,
+        "Set": "Order and Chaos 39"
+    },
+    {
+        "Title": "Sports Hopper",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": "Vehicle",
+        "Inf": 0,
+        "Set": "Salsette Island 64"
+    },
+    {
+        "Title": "Spot the Prey",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Daedalus Complex 5"
+    },
+    {
+        "Title": "Spy Camera",
+        "Cost": 0,
+        "Type": "Hardware",
+        "Subtype": "Consumer-grade",
+        "Inf": 1,
+        "Set": "Democracy and Dogma 42"
+    },
+    {
+        "Title": "Stargate",
+        "Cost": 4,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Downfall 4"
+    },
+    {
+        "Title": "Starlight Crusade Funding",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "True Colors 69"
+    },
+    {
+        "Title": "Steelskin Scarring",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Midnight Sun 4"
+    },
+    {
+        "Title": "Steve Cambridge: Master Grifter",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "G-mod",
+        "Inf": null,
+        "Set": "System Update 2021 14"
+    },
+    {
+        "Title": "Stim Dealer",
+        "Cost": 4,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 3,
+        "Set": "Order and Chaos 51"
+    },
+    {
+        "Title": "Stimhack",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 1,
+        "Set": "System Core 2019 7"
+    },
+    {
+        "Title": "Stoneship Chart Room",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Location",
+        "Inf": 1,
+        "Set": "Midnight Sun 30"
+    },
+    {
+        "Title": "Street Magic",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 1,
+        "Set": "Kala Ghoda 3"
+    },
+    {
+        "Title": "Street Peddler",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Connection - Seedy",
+        "Inf": 1,
+        "Set": "The Underway 62"
+    },
+    {
+        "Title": "Study Guide",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 4,
+        "Set": "Breaker Bay 28"
+    },
+    {
+        "Title": "Sunny Lebeau: Security Specialist",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "Data and Destiny 45"
+    },
+    {
+        "Title": "Sūnya",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 3,
+        "Set": "Quorum 102"
+    },
+    {
+        "Title": "Supercorridor",
+        "Cost": 4,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 2,
+        "Set": "Downfall 23"
+    },
+    {
+        "Title": "Sure Gamble",
+        "Cost": 5,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "System Gateway 30",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Surfer",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "The Universe of Tomorrow 102"
+    },
+    {
+        "Title": "Surge",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Humanity's Shadow 81"
+    },
+    {
+        "Title": "Surveillance Network Key",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Terminal Directive Campaign 19"
+    },
+    {
+        "Title": "Surveillance Network Key 2",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Terminal Directive Campaign 20"
+    },
+    {
+        "Title": "Swift",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Console - Vehicle",
+        "Inf": 2,
+        "Set": "Uprising Booster Pack 2"
+    },
+    {
+        "Title": "Switchblade",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 2,
+        "Set": "Up and Over 77"
+    },
+    {
+        "Title": "Symmetrical Visage",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Genetics",
+        "Inf": 0,
+        "Set": "The Valley 9"
+    },
+    {
+        "Title": "SYN Attack",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Double",
+        "Inf": 3,
+        "Set": "Terminal Directive Cards 4"
+    },
+    {
+        "Title": "Synthetic Blood",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Genetics",
+        "Inf": 2,
+        "Set": "The Valley 7"
+    },
+    {
+        "Title": "System Outage",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Current",
+        "Inf": 2,
+        "Set": "23 Seconds 1"
+    },
+    {
+        "Title": "System Seizure",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Current",
+        "Inf": 1,
+        "Set": "Station One 26"
+    },
+    {
+        "Title": "T400 Memory Diamond",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Chip",
+        "Inf": 0,
+        "Set": "System Gateway 31"
+    },
+    {
+        "Title": "Takobi",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Down the White Nile 26"
+    },
+    {
+        "Title": "Tallie Perrault",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 3,
+        "Set": "Fear and Loathing 83"
+    },
+    {
+        "Title": "Tāo Salonga: Telepresence Magician",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "System Gateway 19"
+    },
+    {
+        "Title": "Tapwrm",
+        "Cost": 0,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 2,
+        "Set": "Quorum 104",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Tech Trader",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 1,
+        "Set": "Business First 23",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Technical Writer",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Data and Destiny 55",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Telework Contract",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Job",
+        "Inf": 2,
+        "Set": "System Gateway 27",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Temple of the Liberated Mind",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Location - Ritzy",
+        "Inf": 3,
+        "Set": "The Liberated Mind 82"
+    },
+    {
+        "Title": "Temüjin Contract",
+        "Cost": 4,
+        "Type": "Resource",
+        "Subtype": "Job",
+        "Inf": 2,
+        "Set": "Blood Money 26",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Test Run",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "System Update 2021 28"
+    },
+    {
+        "Title": "The Archivist",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 4,
+        "Set": "Daedalus Complex 3"
+    },
+    {
+        "Title": "The Artist",
+        "Cost": 4,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 5,
+        "Set": "Downfall 27"
+    },
+    {
+        "Title": "The Back",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Job - Location",
+        "Inf": 4,
+        "Set": "Uprising 82"
+    },
+    {
+        "Title": "The Black File",
+        "Cost": 5,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 4,
+        "Set": "Fear the Masses 99"
+    },
+    {
+        "Title": "The Catalyst: Convention Breaker",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "System Gateway 76"
+    },
+    {
+        "Title": "The Class Act",
+        "Cost": 4,
+        "Type": "Resource",
+        "Subtype": "Connection - Ritzy",
+        "Inf": 5,
+        "Set": "Downfall 18"
+    },
+    {
+        "Title": "The Gauntlet",
+        "Cost": 5,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 1,
+        "Set": "Intervention 63"
+    },
+    {
+        "Title": "The Helpful AI",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection - Link - Virtual",
+        "Inf": 2,
+        "Set": "What Lies Ahead 8"
+    },
+    {
+        "Title": "The Maker's Eye",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 2,
+        "Set": "System Update 2021 29"
+    },
+    {
+        "Title": "The Masque A",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 0,
+        "Set": "Terminal Directive Campaign 25"
+    },
+    {
+        "Title": "The Masque B",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 0,
+        "Set": "Terminal Directive Campaign 26"
+    },
+    {
+        "Title": "The Masque: Cyber General",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "Draft 6"
+    },
+    {
+        "Title": "The Nihilist",
+        "Cost": 4,
+        "Type": "Resource",
+        "Subtype": "Connection - Seedy",
+        "Inf": 5,
+        "Set": "Downfall 8"
+    },
+    {
+        "Title": "The Noble Path",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 2,
+        "Set": "The Liberated Mind 77"
+    },
+    {
+        "Title": "The Personal Touch",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Mod",
+        "Inf": 2,
+        "Set": "Revised Core Set 47"
+    },
+    {
+        "Title": "The Price of Freedom",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Fear the Masses 100"
+    },
+    {
+        "Title": "The Professor: Keeper of Knowledge",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "Creation and Control 29"
+    },
+    {
+        "Title": "The Shadow Net",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 0,
+        "Set": "Terminal Directive Cards 27"
+    },
+    {
+        "Title": "The Source",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 2,
+        "Set": "Creation and Control 55"
+    },
+    {
+        "Title": "The Supplier",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 2,
+        "Set": "First Contact 56"
+    },
+    {
+        "Title": "The Toolbox",
+        "Cost": 9,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 2,
+        "Set": "Core Set 41"
+    },
+    {
+        "Title": "The Turning Wheel",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 1,
+        "Set": "The Liberated Mind 85"
+    },
+    {
+        "Title": "The Twinning",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 3,
+        "Set": "Midnight Sun 10"
+    },
+    {
+        "Title": "Theophilius Bagbiter",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 4,
+        "Set": "Honor and Profit 49"
+    },
+    {
+        "Title": "Three Steps Ahead",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Priority",
+        "Inf": 2,
+        "Set": "The Spaces Between 35"
+    },
+    {
+        "Title": "Thunder Art Gallery",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Location - Ritzy",
+        "Inf": 2,
+        "Set": "Reign and Reverie 13"
+    },
+    {
+        "Title": "Time Bomb",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Weapon",
+        "Inf": 3,
+        "Set": "Parhelion 69"
+    },
+    {
+        "Title": "Tinkering",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Mod",
+        "Inf": 4,
+        "Set": "System Core 2019 47"
+    },
+    {
+        "Title": "Titanium Ribs",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Cybernetic",
+        "Inf": 2,
+        "Set": "Chrome City 45"
+    },
+    {
+        "Title": "Top Hat",
+        "Cost": 0,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Intervention 67"
+    },
+    {
+        "Title": "Torch",
+        "Cost": 9,
+        "Type": "Program",
+        "Strength": 4,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 4,
+        "Set": "Mala Tempora 47"
+    },
+    {
+        "Title": "Tracker",
+        "Cost": 0,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Quorum 105"
+    },
+    {
+        "Title": "Trade-In",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Up and Over 78"
+    },
+    {
+        "Title": "Traffic Jam",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Current",
+        "Inf": 0,
+        "Set": "The Valley 8"
+    },
+    {
+        "Title": "Tranquilizer",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": "Virus - Trojan",
+        "Inf": 3,
+        "Set": "System Gateway 17"
+    },
+    {
+        "Title": "Tread Lightly",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 1,
+        "Set": "System Gateway 12"
+    },
+    {
+        "Title": "Tremolo",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 1,
+        "Set": "Parhelion 80"
+    },
+    {
+        "Title": "Tri-maf Contact",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 1,
+        "Set": "Honor and Profit 50"
+    },
+    {
+        "Title": "Trickster Taka",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Stealth - Companion - Virtual",
+        "Inf": 3,
+        "Set": "Downfall 9",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Trope",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Old Hollywood 81"
+    },
+    {
+        "Title": "Trypano",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": "Virus - Trojan",
+        "Inf": 3,
+        "Set": "Whispers in Nalubaale 82"
+    },
+    {
+        "Title": "Tsakhia \"Bankhar\" Gantulga",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 3,
+        "Set": "Parhelion 74"
+    },
+    {
+        "Title": "Tunnel Vision",
+        "Cost": 2,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - AI",
+        "Inf": 3,
+        "Set": "Parhelion 81"
+    },
+    {
+        "Title": "Turntable",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 2,
+        "Set": "Chrome City 43"
+    },
+    {
+        "Title": "Tycoon",
+        "Cost": 1,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 2,
+        "Set": "Reign and Reverie 12"
+    },
+    {
+        "Title": "Tyson Observatory",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Location",
+        "Inf": 2,
+        "Set": "Breaker Bay 30"
+    },
+    {
+        "Title": "Ubax",
+        "Cost": 5,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "Terminal Directive Cards 16"
+    },
+    {
+        "Title": "Underworld Contact",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 0,
+        "Set": "Revised Core Set 60",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Uninstall",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Order and Chaos 53"
+    },
+    {
+        "Title": "Unity",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 2,
+        "Set": "System Gateway 26"
+    },
+    {
+        "Title": "Unregistered S\u0026W '35",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Weapon",
+        "Inf": 3,
+        "Set": "Honor and Profit 39"
+    },
+    {
+        "Title": "Unscheduled Maintenance",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Current",
+        "Inf": 2,
+        "Set": "The Spaces Between 36"
+    },
+    {
+        "Title": "Upya",
+        "Cost": 0,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Sovereign Sight 7"
+    },
+    {
+        "Title": "Utae",
+        "Cost": 2,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 2,
+        "Set": "Downfall 5"
+    },
+    {
+        "Title": "Utopia Shard",
+        "Cost": 7,
+        "Type": "Resource",
+        "Subtype": "Virtual - Source",
+        "Inf": 1,
+        "Set": "All That Remains 100"
+    },
+    {
+        "Title": "Valencia Estevez: The Angel of Cayambe",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "Order and Chaos 30"
+    },
+    {
+        "Title": "Vamadeva",
+        "Cost": 6,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - AI - Deva",
+        "Inf": 2,
+        "Set": "Salsette Island 61"
+    },
+    {
+        "Title": "Vamp",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run - Sabotage",
+        "Inf": 2,
+        "Set": "Trace Amount 21"
+    },
+    {
+        "Title": "Verbal Plasticity",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Genetics",
+        "Inf": 0,
+        "Set": "System Gateway 34"
+    },
+    {
+        "Title": "Vigil",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 2,
+        "Set": "Order and Chaos 47"
+    },
+    {
+        "Title": "Virtuoso",
+        "Cost": 4,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 4,
+        "Set": "Midnight Sun 15"
+    },
+    {
+        "Title": "Virus Breeding Ground",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 2,
+        "Set": "Order and Chaos 52"
+    },
+    {
+        "Title": "VRcation",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "System Gateway 21"
+    },
+    {
+        "Title": "WAKE Implant v2A-JRJ",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Cybernetic",
+        "Inf": 3,
+        "Set": "Parhelion 78"
+    },
+    {
+        "Title": "Wanton Destruction",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run - Sabotage",
+        "Inf": 4,
+        "Set": "Order and Chaos 35"
+    },
+    {
+        "Title": "Wari",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 4,
+        "Set": "Down the White Nile 24"
+    },
+    {
+        "Title": "Wasteland",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Location - Virtual",
+        "Inf": 2,
+        "Set": "Data and Destiny 36"
+    },
+    {
+        "Title": "Watch the World Burn",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": "Orgcrime - Run - Terminal",
+        "Inf": 1,
+        "Set": "Magnum Opus 7"
+    },
+    {
+        "Title": "Whistleblower",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 1,
+        "Set": "Downfall 30"
+    },
+    {
+        "Title": "White Hat",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 5,
+        "Set": "Council of the Crest 48"
+    },
+    {
+        "Title": "Whizzard: Master Gamer",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "What Lies Ahead 1"
+    },
+    {
+        "Title": "Wildcat Strike",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "System Gateway 2",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Windfall",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 0,
+        "Set": "Data and Destiny 54",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Window",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Honor and Profit 40"
+    },
+    {
+        "Title": "Wireless Net Pavilion",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Location",
+        "Inf": 0,
+        "Set": "The Universe of Tomorrow 108"
+    },
+    {
+        "Title": "Woman in the Red Dress",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Connection - Virtual",
+        "Inf": 4,
+        "Set": "Mala Tempora 48"
+    },
+    {
+        "Title": "World Tree",
+        "Cost": 6,
+        "Type": "Program",
+        "Subtype": "Deep Net",
+        "Inf": 4,
+        "Set": "Parhelion 91",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Wyldside",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Location - Seedy",
+        "Inf": 3,
+        "Set": "Core Set 16"
+    },
+    {
+        "Title": "Wyrm",
+        "Cost": 1,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - AI",
+        "Inf": 2,
+        "Set": "Core Set 13"
+    },
+    {
+        "Title": "Wyvern: Chemically Enhanced",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "G-mod",
+        "Inf": null,
+        "Set": "Draft 7"
+    },
+    {
+        "Title": "Xanadu",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 2,
+        "Set": "System Update 2021 12"
+    },
+    {
+        "Title": "Yog.0",
+        "Cost": 5,
+        "Type": "Program",
+        "Strength": 3,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 1,
+        "Set": "Core Set 14"
+    },
+    {
+        "Title": "Yusuf",
+        "Cost": 1,
+        "Type": "Program",
+        "Strength": 3,
+        "Subtype": "Icebreaker - Fracter - Virus",
+        "Inf": 2,
+        "Set": "Sovereign Sight 2"
+    },
+    {
+        "Title": "Zahya Sadeghi: Versatile Smuggler",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Cyborg",
+        "Inf": null,
+        "Set": "System Gateway 10"
+    },
+    {
+        "Title": "Zamba",
+        "Cost": 4,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "Sovereign Sight 3"
+    },
+    {
+        "Title": "Zenit Chip JZ-2MJ",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Cybernetic - Chip",
+        "Inf": 2,
+        "Set": "Parhelion 79"
+    },
+    {
+        "Title": "Zer0",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Kampala Ascendent 101",
+        "Money": "Yes"
+    },
+    {
+        "Title": "Zona Sul Shipping",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "All That Remains 97"
+    },
+    {
+        "Title": "ZU.13 Key Master",
+        "Cost": 1,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Decoder - Cloud",
+        "Inf": 2,
+        "Set": "What Lies Ahead 7"
+    },
+    {
+        "Title": "AirbladeX (JSRF Ed.)",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Vehicle",
+        "Inf": 1,
+        "Set": "The Automata Initiative 22"
+    },
+    {
+        "Title": "Arissana Rocha Nahu: Street Artist",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "The Automata Initiative 20"
+    },
+    {
+        "Title": "Audrey v2",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 0,
+        "Subtype": "Icebreaker - AI - Virus",
+        "Inf": 3,
+        "Set": "The Automata Initiative 4"
+    },
+    {
+        "Title": "Bahia Bands",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 1,
+        "Set": "The Automata Initiative 30"
+    },
+    {
+        "Title": "Banner",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 5,
+        "Subtype": "Icebreaker - Fracter - Weapon",
+        "Inf": 3,
+        "Set": "The Automata Initiative 5"
+    },
+    {
+        "Title": "Beatriz Friere Gonzalez",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 3,
+        "Set": "The Automata Initiative 28"
+    },
+    {
+        "Title": "Capybara",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "The Automata Initiative 13"
+    },
+    {
+        "Title": "Chrysopoeian Skimming",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "The Automata Initiative 11"
+    },
+    {
+        "Title": "Curupira",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 3,
+        "Set": "The Automata Initiative 15"
+    },
+    {
+        "Title": "Debbie \"Downtown\" Moreira",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 2,
+        "Set": "The Automata Initiative 19"
+    },
+    {
+        "Title": "Eru Ayase-Pessoa",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection - Clone",
+        "Inf": 3,
+        "Set": "The Automata Initiative 7"
+    },
+    {
+        "Title": "Hannah \"Wheels\" Pilintra",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 2,
+        "Set": "The Automata Initiative 8"
+    },
+    {
+        "Title": "Hermes",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "The Automata Initiative 14"
+    },
+    {
+        "Title": "Joy Ride",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "The Automata Initiative 21"
+    },
+    {
+        "Title": "Lago Paranoá Shelter",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection - Location",
+        "Inf": 2,
+        "Set": "The Automata Initiative 9"
+    },
+    {
+        "Title": "Laser Pointer",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": "Weapon",
+        "Inf": 3,
+        "Set": "The Automata Initiative 16"
+    },
+    {
+        "Title": "LilyPAD",
+        "Cost": 4,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "The Automata Initiative 23"
+    },
+    {
+        "Title": "Living Mural",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Killer - Trojan",
+        "Inf": 2,
+        "Set": "The Automata Initiative 24"
+    },
+    {
+        "Title": "Mercury: Chrome Libertador",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Bioroid",
+        "Inf": null,
+        "Set": "The Automata Initiative 10"
+    },
+    {
+        "Title": "Monkeywrench",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": "Trojan",
+        "Inf": 2,
+        "Set": "The Automata Initiative 6"
+    },
+    {
+        "Title": "Pichação",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": "Trojan",
+        "Inf": 2,
+        "Set": "The Automata Initiative 25"
+    },
+    {
+        "Title": "S-Dobrado",
+        "Cost": 2,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "The Automata Initiative 12"
+    },
+    {
+        "Title": "Saci",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": "Trojan",
+        "Inf": 1,
+        "Set": "The Automata Initiative 17"
+    },
+    {
+        "Title": "Shibboleth",
+        "Cost": 1,
+        "Type": "Program",
+        "Strength": 3,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 2,
+        "Set": "The Automata Initiative 18"
+    },
+    {
+        "Title": "Slap Vandal",
+        "Cost": 1,
+        "Type": "Program",
+        "Strength": 6,
+        "Subtype": "Icebreaker - AI - Trojan",
+        "Inf": 2,
+        "Set": "The Automata Initiative 26"
+    },
+    {
+        "Title": "Solidarity Badge",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Chip",
+        "Inf": 1,
+        "Set": "The Automata Initiative 3"
+    },
+    {
+        "Title": "Strike Fund",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "The Automata Initiative 1"
+    },
+    {
+        "Title": "The Price",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "The Automata Initiative 2"
+    },
+    {
+        "Title": "Umbrella",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 5,
+        "Subtype": "Icebreaker - Decoder - Weapon",
+        "Inf": 2,
+        "Set": "The Automata Initiative 27"
+    },
+    {
+        "Title": "Urban Art Vernissage",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Job - Ritzy",
+        "Inf": 2,
+        "Set": "The Automata Initiative 29"
+    },
+    {
+        "Title": "\"Pretty\" Mary da Silva",
+        "Cost": 1,
+        "Type": "Resource",
+        "Subtype": "Connection - Seedy",
+        "Inf": 1,
+        "Set": "Rebellion Without Rehearsal 93"
+    },
+    {
+        "Title": "Alarm Clock",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 4,
+        "Set": "Rebellion Without Rehearsal 78"
+    },
+    {
+        "Title": "Amanuensis",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "Rebellion Without Rehearsal 69"
+    },
+    {
+        "Title": "Amelia Earhart",
+        "Cost": 0,
+        "Type": "Resource",
+        "Subtype": "Virtual - Companion",
+        "Inf": 3,
+        "Set": "Rebellion Without Rehearsal 83"
+    },
+    {
+        "Title": "Arruaceiras Crew",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection - Seedy",
+        "Inf": 3,
+        "Set": "Rebellion Without Rehearsal 73"
+    },
+    {
+        "Title": "Ashen Epilogue",
+        "Cost": 5,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Rebellion Without Rehearsal 94"
+    },
+    {
+        "Title": "Boi-tatá",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Killer",
+        "Inf": 2,
+        "Set": "Rebellion Without Rehearsal 71"
+    },
+    {
+        "Title": "Burner",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "Rebellion Without Rehearsal 85"
+    },
+    {
+        "Title": "Cataloguer",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 4,
+        "Set": "Rebellion Without Rehearsal 88"
+    },
+    {
+        "Title": "Coalescence",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Rebellion Without Rehearsal 89"
+    },
+    {
+        "Title": "Cupellation",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Rebellion Without Rehearsal 80"
+    },
+    {
+        "Title": "Eye for an Eye",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 4,
+        "Set": "Rebellion Without Rehearsal 67"
+    },
+    {
+        "Title": "Friend of a Friend",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 1,
+        "Set": "Rebellion Without Rehearsal 74"
+    },
+    {
+        "Title": "Heliamphora",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": "Virus",
+        "Inf": 2,
+        "Set": "Rebellion Without Rehearsal 72"
+    },
+    {
+        "Title": "Jeitinho",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Weapon",
+        "Inf": 4,
+        "Set": "Rebellion Without Rehearsal 79"
+    },
+    {
+        "Title": "Juli Moreira Lee",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 1,
+        "Set": "Rebellion Without Rehearsal 84"
+    },
+    {
+        "Title": "Lobisomem",
+        "Cost": 8,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Decoder - Fracter",
+        "Inf": 2,
+        "Set": "Rebellion Without Rehearsal 90"
+    },
+    {
+        "Title": "Malandragem",
+        "Cost": 4,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 4,
+        "Set": "Rebellion Without Rehearsal 81"
+    },
+    {
+        "Title": "Manuel Lattes de Moura",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 2,
+        "Set": "Rebellion Without Rehearsal 75"
+    },
+    {
+        "Title": "Meeting of Minds",
+        "Cost": 4,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 3,
+        "Set": "Rebellion Without Rehearsal 76"
+    },
+    {
+        "Title": "Muse",
+        "Cost": 2,
+        "Type": "Program",
+        "Subtype": "Daemon",
+        "Inf": 4,
+        "Set": "Rebellion Without Rehearsal 91"
+    },
+    {
+        "Title": "Physarum Entangler",
+        "Cost": 0,
+        "Type": "Program",
+        "Subtype": "Virus - Trojan",
+        "Inf": 3,
+        "Set": "Rebellion Without Rehearsal 82"
+    },
+    {
+        "Title": "Pressure Spike",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 3,
+        "Set": "Rebellion Without Rehearsal 92"
+    },
+    {
+        "Title": "Privileged Access",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 2,
+        "Set": "Rebellion Without Rehearsal 68"
+    },
+    {
+        "Title": "Sebastião Souza Pessoa: Activist Organizer",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "G-mod",
+        "Inf": null,
+        "Set": "Rebellion Without Rehearsal 66"
+    },
+    {
+        "Title": "Spree",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 2,
+        "Set": "Rebellion Without Rehearsal 86"
+    },
+    {
+        "Title": "The Wizard’s Chest",
+        "Cost": 0,
+        "Type": "Hardware",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Rebellion Without Rehearsal 70"
+    },
+    {
+        "Title": "Trick Shot",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "Rebellion Without Rehearsal 87"
+    },
+    {
+        "Title": "Valentina Ferreira Carvalho",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 0,
+        "Set": "Rebellion Without Rehearsal 95"
+    },
+    {
+        "Title": "Window of Opportunity",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 2,
+        "Set": "Rebellion Without Rehearsal 77"
+    }
+]
