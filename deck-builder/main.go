@@ -36,6 +36,26 @@ func main() {
 		fmt.Fprintln(w, "</html>")
 		fmt.Fprintln(w, "</body>")
 	})
+	
+	//Pure text api endpoint for generating a runner deck
+	http.HandleFunc("/new-deck-runner", func(w http.ResponseWriter, r *http.Request) {
+		_ , seed := generateDeckNameAndSeed()
+		rand.Seed(seed)
+		runnerDeck := deckbuilder.MakeRunnerDeck()
+		for _, card := range runnerDeck.GetCards() {
+			fmt.Fprintf(w, "1 %s \n", card.Title)
+	}
+	})
+	
+	//Pure text api endpoint for generating a corp deck
+	http.HandleFunc("/new-deck-corp", func(w http.ResponseWriter, r *http.Request) {
+		_ , seed := generateDeckNameAndSeed()
+		rand.Seed(seed)
+		corpDeck := deckbuilder.MakeCorpDeck()
+		for _, card := range corpDeck.GetCards() {
+			fmt.Fprintf(w, "1 %s \n", card.Title)
+	}
+	})
 
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
 		http.ServeFile(w, r, "./homepage.html")
