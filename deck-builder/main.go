@@ -44,7 +44,7 @@ func main() {
 		runnerDeck := deckbuilder.MakeRunnerDeck()
 		for _, card := range runnerDeck.GetCards() {
 			fmt.Fprintf(w, "1 %s \n", card.Title)
-	}
+		}
 	})
 	
 	//Pure text api endpoint for generating a corp deck
