@@ -54,7 +54,7 @@ func main() {
 		corpDeck := deckbuilder.MakeCorpDeck()
 		for _, card := range corpDeck.GetCards() {
 			fmt.Fprintf(w, "1 %s \n", card.Title)
-	}
+		}
 	})
 
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
