@@ -7681,7 +7681,7 @@ var ZZ_RunnerCards []*datamodel.Card = []*datamodel.Card{
 		Set:      "Elevation 32",
 	},
 	{
-		Title:   "“Knickknack” O’Brian",
+		Title:   "\"Knickknack\" O’Brian",
 		Cost:    helpers.ToPtr(2),
 		Type:    "Resource",
 		Subtype: helpers.ToPtr("Connection"),
