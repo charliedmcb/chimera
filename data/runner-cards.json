@@ -7169,5 +7169,281 @@
         "Subtype": "Run",
         "Inf": 2,
         "Set": "Rebellion Without Rehearsal 77"
+    },
+    {
+        "Title": "Ryō “Phoenix” Ōno: Out of the Ashes",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "G-mod",
+        "Inf": null,
+        "Set": "Elevation 1"
+    },
+    {
+        "Title": "Topan: Ormas Leader",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "Elevation 2"
+    },
+    {
+        "Title": "Charm Offensive",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 2,
+        "Set": "Elevation 3"
+    },
+    {
+        "Title": "Scrounge",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Double",
+        "Inf": 1,
+        "Set": "Elevation 4"
+    },
+    {
+        "Title": "Shred",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 1,
+        "Set": "Elevation 5"
+    },
+    {
+        "Title": "Bling",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "Elevation 6"
+    },
+    {
+        "Title": "Gourmand",
+        "Cost": 0,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Elevation 7"
+    },
+    {
+        "Title": "Hantu",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Killer - Virus",
+        "Inf": 2,
+        "Set": "Elevation 8"
+    },
+    {
+        "Title": "Rising Tide",
+        "Cost": 1,
+        "Type": "Program",
+        "Strength": 1,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 2,
+        "Set": "Elevation 9"
+    },
+    {
+        "Title": "Cacophony",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Virtual",
+        "Inf": 4,
+        "Set": "Elevation 10"
+    },
+    {
+        "Title": "Rent Rioters",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection - Seedy",
+        "Inf": 1,
+        "Set": "Elevation 11"
+    },
+    {
+        "Title": "Barry “Baz” Wong: Tri-Maf Veteran",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Cyborg",
+        "Inf": null,
+        "Set": "Elevation 12"
+    },
+    {
+        "Title": "MuslihaT: Multifarious Marketeer",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "Elevation 13"
+    },
+    {
+        "Title": "Clean Getaway",
+        "Cost": 3,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 2,
+        "Set": "Elevation 14"
+    },
+    {
+        "Title": "Lie Low",
+        "Cost": 1,
+        "Type": "Event",
+        "Subtype": "Double",
+        "Inf": 1,
+        "Set": "Elevation 15"
+    },
+    {
+        "Title": "Maintenance Access",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run - Double",
+        "Inf": 3,
+        "Set": "Elevation 16"
+    },
+    {
+        "Title": "Transfer of Wealth",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 4,
+        "Set": "Elevation 17"
+    },
+    {
+        "Title": "Detente",
+        "Cost": 3,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "Elevation 18"
+    },
+    {
+        "Title": "Maglectric Rapid (748 Mod)",
+        "Cost": 1,
+        "Type": "Hardware",
+        "Subtype": "Weapon",
+        "Inf": 2,
+        "Set": "Elevation 19"
+    },
+    {
+        "Title": "Sang Kancil",
+        "Cost": 3,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Decoder",
+        "Inf": 2,
+        "Set": "Elevation 20"
+    },
+    {
+        "Title": "Fransofia Ward",
+        "Cost": 3,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 3,
+        "Set": "Elevation 21"
+    },
+    {
+        "Title": "Open Market",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Job - Location",
+        "Inf": 2,
+        "Set": "Elevation 22"
+    },
+    {
+        "Title": "Dewi Subrotoputri: Pedagogical Dhalang",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Natural",
+        "Inf": null,
+        "Set": "Elevation 23"
+    },
+    {
+        "Title": "Magdalene Keino-Chemutai: Cryptarchitect",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Cyborg",
+        "Inf": null,
+        "Set": "Elevation 24"
+    },
+    {
+        "Title": "Illumination",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": "Run",
+        "Inf": 3,
+        "Set": "Elevation 25"
+    },
+    {
+        "Title": "Ritual",
+        "Cost": 0,
+        "Type": "Event",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Elevation 26"
+    },
+    {
+        "Title": "GAMEDRAGON™ Pro",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Mod",
+        "Inf": 2,
+        "Set": "Elevation 27"
+    },
+    {
+        "Title": "Madani",
+        "Cost": 2,
+        "Type": "Hardware",
+        "Subtype": "Console",
+        "Inf": 3,
+        "Set": "Elevation 28"
+    },
+    {
+        "Title": "Azimat",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Elevation 29"
+    },
+    {
+        "Title": "Chromatophores",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": "Trojan",
+        "Inf": 2,
+        "Set": "Elevation 30"
+    },
+    {
+        "Title": "Devadatta Drone",
+        "Cost": 1,
+        "Type": "Program",
+        "Subtype": null,
+        "Inf": 1,
+        "Set": "Elevation 31"
+    },
+    {
+        "Title": "Principia",
+        "Cost": 4,
+        "Type": "Program",
+        "Strength": 2,
+        "Subtype": "Icebreaker - Fracter",
+        "Inf": 1,
+        "Set": "Elevation 32"
+    },
+    {
+        "Title": "“Knickknack” O’Brian",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Connection",
+        "Inf": 3,
+        "Set": "Elevation 33"
+    },
+    {
+        "Title": "Side Hustle",
+        "Cost": 2,
+        "Type": "Resource",
+        "Subtype": "Job",
+        "Inf": 0,
+        "Set": "Elevation 34"
     }
 ]

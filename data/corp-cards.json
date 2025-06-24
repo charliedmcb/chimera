@@ -9173,5 +9173,422 @@
         "Subtype": "Hostile",
         "Inf": 2,
         "Set": "Rebellion Without Rehearsal 99"
+    },
+    {
+        "Title": "Aggressive Trendsetting",
+        "Cost": 3,
+        "Type": "Agenda",
+        "Points": 1,
+        "Subtype": "Initiative",
+        "Inf": 0,
+        "Set": "Elevation 37"
+    },
+    {
+        "Title": "Project Ingatan",
+        "Cost": 3,
+        "Type": "Agenda",
+        "Points": 2,
+        "Subtype": "Research",
+        "Inf": 0,
+        "Set": "Elevation 38"
+    },
+    {
+        "Title": "Humanoid Resources",
+        "Cost": 1,
+        "Type": "Asset",
+        "Trash": 1,
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Elevation 39"
+    },
+    {
+        "Title": "Otto Campaign",
+        "Cost": 2,
+        "Type": "Asset",
+        "Trash": 2,
+        "Subtype": "Advertisement",
+        "Inf": 3,
+        "Set": "Elevation 40"
+    },
+    {
+        "Title": "Bumi 1.0",
+        "Cost": 3,
+        "Type": "Ice",
+        "Strength": 3,
+        "Subtype": "Sentry - Bioroid - AP - Destroyer",
+        "Inf": 1,
+        "Set": "Elevation 41"
+    },
+    {
+        "Title": "Scatter Field",
+        "Cost": 3,
+        "Type": "Ice",
+        "Strength": 0,
+        "Subtype": "Code Gate",
+        "Inf": 2,
+        "Set": "Elevation 42"
+    },
+    {
+        "Title": "Nanomanagement",
+        "Cost": 4,
+        "Type": "Operation",
+        "Subtype": null,
+        "Inf": 4,
+        "Set": "Elevation 43"
+    },
+    {
+        "Title": "Top-Down Solutions",
+        "Cost": 2,
+        "Type": "Operation",
+        "Subtype": null,
+        "Inf": 2,
+        "Set": "Elevation 44"
+    },
+    {
+        "Title": "Mercia B4LL4RD",
+        "Cost": 2,
+        "Type": "Upgrade",
+        "Trash": 2,
+        "Subtype": "Bioroid - Academic",
+        "Inf": 2,
+        "Set": "Elevation 45"
+    },
+    {
+        "Title": "Proprionegation",
+        "Cost": 4,
+        "Type": "Agenda",
+        "Points": 2,
+        "Subtype": "Security",
+        "Inf": 0,
+        "Set": "Elevation 48"
+    },
+    {
+        "Title": "Sericulture Expansion",
+        "Cost": 3,
+        "Type": "Agenda",
+        "Points": 2,
+        "Subtype": "Expansion",
+        "Inf": 0,
+        "Set": "Elevation 49"
+    },
+    {
+        "Title": "Byte!",
+        "Cost": 0,
+        "Type": "Asset",
+        "Trash": 0,
+        "Subtype": "Ambush",
+        "Inf": 2,
+        "Set": "Elevation 50"
+    },
+    {
+        "Title": "Phật Gioan Baotixita",
+        "Cost": 1,
+        "Type": "Asset",
+        "Trash": 3,
+        "Subtype": "Executive",
+        "Inf": 4,
+        "Set": "Elevation 51"
+    },
+    {
+        "Title": "Empiricist",
+        "Cost": 7,
+        "Type": "Ice",
+        "Strength": 5,
+        "Subtype": "Sentry - AP - Observer",
+        "Inf": 3,
+        "Set": "Elevation 52"
+    },
+    {
+        "Title": "Mycoweb",
+        "Cost": 8,
+        "Type": "Ice",
+        "Strength": 5,
+        "Subtype": "Code Gate",
+        "Inf": 2,
+        "Set": "Elevation 53"
+    },
+    {
+        "Title": "Semak-samun",
+        "Cost": 3,
+        "Type": "Ice",
+        "Strength": 3,
+        "Subtype": "Barrier - AP",
+        "Inf": 1,
+        "Set": "Elevation 54"
+    },
+    {
+        "Title": "Peer Review",
+        "Cost": 4,
+        "Type": "Operation",
+        "Subtype": "Transaction",
+        "Inf": 2,
+        "Set": "Elevation 55"
+    },
+    {
+        "Title": "Mitra Aman",
+        "Cost": 0,
+        "Type": "Upgrade",
+        "Trash": 3,
+        "Subtype": "Clone",
+        "Inf": 2,
+        "Set": "Elevation 56"
+    },
+    {
+        "Title": "Embedded Reporting",
+        "Cost": 3,
+        "Type": "Agenda",
+        "Points": 2,
+        "Subtype": "Initiative",
+        "Inf": 0,
+        "Set": "Elevation 59"
+    },
+    {
+        "Title": "Next Big Thing",
+        "Cost": 5,
+        "Type": "Agenda",
+        "Points": 3,
+        "Subtype": "Initiative",
+        "Inf": 0,
+        "Set": "Elevation 60"
+    },
+    {
+        "Title": "Idiosyncresis",
+        "Cost": 1,
+        "Type": "Asset",
+        "Trash": 2,
+        "Subtype": "Hostile",
+        "Inf": 2,
+        "Set": "Elevation 61"
+    },
+    {
+        "Title": "Public Access Plaza",
+        "Cost": 1,
+        "Type": "Asset",
+        "Trash": 2,
+        "Subtype": "Advertisement",
+        "Inf": 1,
+        "Set": "Elevation 62"
+    },
+    {
+        "Title": "Doomscroll",
+        "Cost": 3,
+        "Type": "Ice",
+        "Strength": 3,
+        "Subtype": "Sentry - AP - Observer",
+        "Inf": 2,
+        "Set": "Elevation 63"
+    },
+    {
+        "Title": "N-Pot",
+        "Cost": 4,
+        "Type": "Ice",
+        "Strength": 4,
+        "Subtype": "Code Gate",
+        "Inf": 2,
+        "Set": "Elevation 64"
+    },
+    {
+        "Title": "Bigger Picture",
+        "Cost": 0,
+        "Type": "Operation",
+        "Subtype": "Gray Ops",
+        "Inf": 2,
+        "Set": "Elevation 65"
+    },
+    {
+        "Title": "IP Enforcement",
+        "Cost": -1,
+        "Type": "Operation",
+        "Trash": 5,
+        "Subtype": "Gray Ops",
+        "Inf": 5,
+        "Set": "Elevation 66"
+    },
+    {
+        "Title": "Touch-ups",
+        "Cost": 2,
+        "Type": "Operation",
+        "Subtype": "Double",
+        "Inf": 3,
+        "Set": "Elevation 67"
+    },
+    {
+        "Title": "Greenmail",
+        "Cost": 2,
+        "Type": "Agenda",
+        "Points": 1,
+        "Subtype": "Expansion",
+        "Inf": 0,
+        "Set": "Elevation 70"
+    },
+    {
+        "Title": "Off the Books",
+        "Cost": 3,
+        "Type": "Agenda",
+        "Points": 2,
+        "Subtype": "Initiative",
+        "Inf": 0,
+        "Set": "Elevation 71"
+    },
+    {
+        "Title": "Anthill Excavation Contract",
+        "Cost": 3,
+        "Type": "Asset",
+        "Trash": 1,
+        "Subtype": "Industrial",
+        "Inf": 2,
+        "Set": "Elevation 72"
+    },
+    {
+        "Title": "Plutus",
+        "Cost": 0,
+        "Type": "Asset",
+        "Trash": 3,
+        "Subtype": "Deep Net",
+        "Inf": 3,
+        "Set": "Elevation 73"
+    },
+    {
+        "Title": "Biawak",
+        "Cost": 14,
+        "Type": "Ice",
+        "Strength": 6,
+        "Subtype": "Sentry - Destroyer",
+        "Inf": 3,
+        "Set": "Elevation 74"
+    },
+    {
+        "Title": "Kessleroid",
+        "Cost": 2,
+        "Type": "Ice",
+        "Strength": 1,
+        "Subtype": "Barrier",
+        "Inf": 1,
+        "Set": "Elevation 75"
+    },
+    {
+        "Title": "Syailendra",
+        "Cost": 4,
+        "Type": "Ice",
+        "Strength": 5,
+        "Subtype": "Code Gate - AP",
+        "Inf": 3,
+        "Set": "Elevation 76"
+    },
+    {
+        "Title": "Key Performance Indicators",
+        "Cost": 1,
+        "Type": "Operation",
+        "Subtype": "Transaction",
+        "Inf": 2,
+        "Set": "Elevation 77"
+    },
+    {
+        "Title": "Measured Response",
+        "Cost": 5,
+        "Type": "Operation",
+        "Trash": 3,
+        "Subtype": "Black Ops",
+        "Inf": 4,
+        "Set": "Elevation 78"
+    },
+    {
+        "Title": "Flyswatter",
+        "Cost": 2,
+        "Type": "Ice",
+        "Strength": 0,
+        "Subtype": "Code Gate",
+        "Inf": 0,
+        "Set": "Elevation 79"
+    },
+    {
+        "Title": "Lamplighter",
+        "Cost": 2,
+        "Type": "Ice",
+        "Strength": 3,
+        "Subtype": "Sentry - Observer",
+        "Inf": 0,
+        "Set": "Elevation 80"
+    },
+    {
+        "Title": "Petty Cash",
+        "Cost": 3,
+        "Type": "Operation",
+        "Subtype": "Transaction",
+        "Inf": 0,
+        "Set": "Elevation 81"
+    },
+    {
+        "Title": "Mahkota Langit Grid",
+        "Cost": 2,
+        "Type": "Upgrade",
+        "Trash": 2,
+        "Subtype": "Region",
+        "Inf": 0,
+        "Set": "Elevation 82"
+    },
+    {
+        "Title": "LEO Construction: Labor Solutions",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Division",
+        "Inf": null,
+        "Set": "Elevation 35"
+    },
+    {
+        "Title": "Poétrï Luxury Brands: All the Rage",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Division",
+        "Inf": null,
+        "Set": "Elevation 36"
+    },
+    {
+        "Title": "AU Co.: The Gold Standard in Clones",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Division",
+        "Inf": null,
+        "Set": "Elevation 46"
+    },
+    {
+        "Title": "PT Untaian: Life's Building Blocks",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Division",
+        "Inf": null,
+        "Set": "Elevation 47"
+    },
+    {
+        "Title": "Nebula Talent Management: Making Stars",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Division",
+        "Inf": null,
+        "Set": "Elevation 57"
+    },
+    {
+        "Title": "Synapse Global: Faster than Thought",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Division",
+        "Inf": null,
+        "Set": "Elevation 58"
+    },
+    {
+        "Title": "BANGUN: When Disaster Strikes",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Corp",
+        "Inf": null,
+        "Set": "Elevation 68"
+    },
+    {
+        "Title": "The Zwicky Group: Invisible Hands",
+        "Cost": null,
+        "Type": "Identity",
+        "Subtype": "Unsubstantiated",
+        "Inf": null,
+        "Set": "Elevation 69"
     }
 ]

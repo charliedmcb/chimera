@@ -1,10 +1,12 @@
 1 Adonis Campaign
+1 Anthill Excavation Contract
 1 Capital Investors
 1 Charlotte Caçador
 1 Cohort Guidance Program
 1 Commercial Bankers Group
 1 Daily Quest
 1 GRNDL Refinery
+1 Humanoid Resources
 1 Illegal Arms Factory
 1 Indian Union Stock Exchange
 1 Janaína "JK" Dumont Kindelán
@@ -19,7 +21,9 @@
 1 NASX
 1 NGO Front
 1 Nico Campaign
+1 Otto Campaign
 1 PAD Campaign
+1 Public Access Plaza
 1 Rashida Jaheem
 1 Refuge Campaign
 1 Regolith Mining License
@@ -42,6 +46,8 @@
 1 Mindscaping
 1 Nonequivalent Exchange
 1 Paywall Implementation
+1 Peer Review
+1 Petty Cash
 1 Predictive Planogram
 1 Restructure
 1 Sweeps Week
