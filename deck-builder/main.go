@@ -19,12 +19,24 @@ func main() {
 
 		fmt.Fprintln(w, "<head>")
 		fmt.Fprintln(w, "<title>Generate Decks</title>")
+		fmt.Fprintln(w, `<link rel="stylesheet" href="/static/style.css">`)
+		fmt.Fprintln(w, `<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">`)
 		fmt.Fprintln(w, "</head>")
 
 		fmt.Fprintln(w, "<body>")
 
-		fmt.Fprintf(w, "<h3>%s</h3>\n", name)
-		fmt.Fprintf(w, "\n")
+		fmt.Fprintln(w, `<nav>
+    <a href="/">Home</a>
+    <a href="/new-deck">New Deck</a>
+    <a href="/banlist/corp">Corp Banlist</a>
+    <a href="/banlist/runner">Runner Banlist</a>
+    <a href="/econcards/corp">Corp Econ</a>
+    <a href="/econcards/runner">Runner Econ</a>
+</nav>`)
+
+		fmt.Fprintln(w, `<main class="container">`)
+		fmt.Fprintf(w, "<h1>%s</h1>\n", name)
+
 		corpDeck := deckbuilder.MakeCorpDeck()
 		printCorpDeck(w, corpDeck)
 		fmt.Fprintf(w, "<br>\n")
@@ -33,8 +45,9 @@ func main() {
 
 		printCopyScript(w)
 
-		fmt.Fprintln(w, "</html>")
+		fmt.Fprintln(w, `</main>`)
 		fmt.Fprintln(w, "</body>")
+		fmt.Fprintln(w, "</html>")
 	})
 
 	//Pure text api endpoint for generating a runner deck
@@ -80,6 +93,8 @@ func main() {
 	http.HandleFunc("/banlist/runner", func(w http.ResponseWriter, r *http.Request) {
 		http.ServeFile(w, r, "./banlist-runner.html")
 	})
+
+	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("./static"))))
 
 	if err := http.ListenAndServe(":80", nil); err != nil {
 		log.Fatal(err)
