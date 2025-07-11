@@ -1,4 +1,4 @@
-VERSION ?= v0.0.44-alpha
+VERSION ?= v0.0.45-alpha
 DEPLOYMENT_VERSION ?= $(subst .,-,$(VERSION))
 
 web:
