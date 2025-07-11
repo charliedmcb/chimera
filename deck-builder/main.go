@@ -71,30 +71,36 @@ func main() {
 	})
 
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
-		http.ServeFile(w, r, "./homepage.html")
+		http.ServeFile(w, r, "./static/homepage.html")
 	})
 
 	http.HandleFunc("/favicon.ico", func(w http.ResponseWriter, r *http.Request) {
-		http.ServeFile(w, r, "./favicon.ico")
+		http.ServeFile(w, r, "./static/favicon.ico")
 	})
 
 	http.HandleFunc("/econcards/corp", func(w http.ResponseWriter, r *http.Request) {
-		http.ServeFile(w, r, "./econcards-corp.html")
+		http.ServeFile(w, r, "./static/econcards-corp.html")
 	})
 
 	http.HandleFunc("/econcards/runner", func(w http.ResponseWriter, r *http.Request) {
-		http.ServeFile(w, r, "./econcards-runner.html")
+		http.ServeFile(w, r, "./static/econcards-runner.html")
 	})
 
 	http.HandleFunc("/banlist/corp", func(w http.ResponseWriter, r *http.Request) {
-		http.ServeFile(w, r, "./banlist-corp.html")
+		http.ServeFile(w, r, "./static/banlist-corp.html")
 	})
 
 	http.HandleFunc("/banlist/runner", func(w http.ResponseWriter, r *http.Request) {
-		http.ServeFile(w, r, "./banlist-runner.html")
+		http.ServeFile(w, r, "./static/banlist-runner.html")
 	})
 
-	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("./static"))))
+	http.HandleFunc("/static/style.css", func(w http.ResponseWriter, r *http.Request) {
+		http.ServeFile(w, r, "./static/style.css")
+	})
+
+	// http.Handle("/static/style.css", http.FileServer(http.Dir()("./static/style.css")))
+
+	// http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("./static"))))
 
 	if err := http.ListenAndServe(":80", nil); err != nil {
 		log.Fatal(err)
