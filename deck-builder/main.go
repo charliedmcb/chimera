@@ -10,7 +10,7 @@ import (
 
 func main() {
 
-	http.HandleFunc("/new-deck", func(w http.ResponseWriter, r *http.Request) {
+	http.HandleFunc("/generate-decks", func(w http.ResponseWriter, r *http.Request) {
 		name, seed := generateDeckNameAndSeed()
 		rand.Seed(seed)
 
@@ -27,11 +27,11 @@ func main() {
 
 		fmt.Fprintln(w, `<nav>
     <a href="/">Home</a>
-    <a href="/new-deck">New Deck</a>
+    <a href="/generate-decks">Generate Decks</a>
     <a href="/banlist/corp">Corp Banlist</a>
     <a href="/banlist/runner">Runner Banlist</a>
-    <a href="/econcards/corp">Corp Econ</a>
-    <a href="/econcards/runner">Runner Econ</a>
+    <a href="/econcards/corp">Corp Econ-list</a>
+    <a href="/econcards/runner">Runner Econ-list</a>
 </nav>`)
 
 		fmt.Fprintln(w, `<main class="container">`)
@@ -42,7 +42,7 @@ func main() {
 		runnerDeck := deckbuilder.MakeRunnerDeck()
 		printRunnerDeck(w, runnerDeck)
 
-		fmt.Fprintln(w, `<br><a href="/new-deck" class="button">Generate New Decks</a>`)
+		fmt.Fprintln(w, `<br><a href="/generate-decks" class="button">Generate New Decks</a>`)
 
 		printCopyScript(w)
 
