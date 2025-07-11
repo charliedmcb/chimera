@@ -10,6 +10,7 @@ COPY ./deck-builder/banlist-corp.html ./
 COPY ./deck-builder/banlist-runner.html ./
 COPY ./deck-builder/econcards-corp.html ./
 COPY ./deck-builder/econcards-runner.html ./
+COPY ./deck-builder/static ./
 COPY ./deck-builder/favicon.ico ./
 
 CMD ["/app/webapp"]
