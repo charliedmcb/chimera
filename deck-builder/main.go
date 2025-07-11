@@ -98,10 +98,6 @@ func main() {
 		http.ServeFile(w, r, "./static/style.css")
 	})
 
-	// http.Handle("/static/style.css", http.FileServer(http.Dir()("./static/style.css")))
-
-	// http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("./static"))))
-
 	if err := http.ListenAndServe(":80", nil); err != nil {
 		log.Fatal(err)
 	}
