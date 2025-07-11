@@ -39,9 +39,10 @@ func main() {
 
 		corpDeck := deckbuilder.MakeCorpDeck()
 		printCorpDeck(w, corpDeck)
-		fmt.Fprintf(w, "<br>\n")
 		runnerDeck := deckbuilder.MakeRunnerDeck()
 		printRunnerDeck(w, runnerDeck)
+
+		fmt.Fprintln(w, `<br><a href="/new-deck" class="button">Generate New Decks</a>`)
 
 		printCopyScript(w)
 
