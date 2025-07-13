@@ -11,7 +11,15 @@ import (
 func main() {
 
 	http.HandleFunc("/generate-decks", func(w http.ResponseWriter, r *http.Request) {
-		name, seed := generateDeckNameAndSeed()
+		var name string
+		var seed int64
+		
+		inputSeed := r.URL.Query().Get("seed")
+		if inputSeed != "" {
+			name, seed = generateDeckNameAndSeedFromInput(inputSeed)
+		} else {
+			name, seed = generateDeckNameAndSeed()
+		}
 		rand.Seed(seed)
 
 		fmt.Fprintln(w, "<!DOCTYPE html>")
@@ -42,7 +50,11 @@ func main() {
 		runnerDeck := deckbuilder.MakeRunnerDeck()
 		printRunnerDeck(w, runnerDeck)
 
-		fmt.Fprintln(w, `<br><a href="/generate-decks" class="button">Generate New Decks</a>`)
+		fmt.Fprintln(w, `<br><form method="GET" action="/generate-decks" style="margin-bottom: 10px; text-align: center;">
+    <input type="text" name="seed" placeholder="Enter custom seed..." style="padding: 8px; width: 200px; margin-right: 10px;">
+    <button type="submit" class="button">Generate New Decks</button>
+</form>`)
+		fmt.Fprintln(w, `<a href="/generate-decks" class="button" style="margin-left: 10px;">Random Decks</a>`)
 
 		printCopyScript(w)
 

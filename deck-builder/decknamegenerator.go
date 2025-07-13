@@ -4,6 +4,8 @@ import (
 	"fmt"
 	"hash/fnv"
 	"math/rand"
+	"regexp"
+	"strconv"
 	"time"
 )
 
@@ -299,32 +301,66 @@ var (
 	}
 )
 
-func generateDeckNameAndSeed() (string, int64) {
-	seed := time.Now().UnixNano()
-	rand.Seed(seed)
+// generateNameFromSeed creates a deck name from a numeric seed
+func generateNameFromSeed(seedValue int64) string {
+	rand.Seed(seedValue)
 	prefix := prefixes[rand.Intn(len(prefixes))]
 	suffix := suffixes[rand.Intn(len(suffixes))]
-	name := fmt.Sprintf("%s %s", prefix, suffix)
-	// var corp bool
-	// if rand.Intn(2) == 0 {
-	// 	name += " " + corpIdPrefixes[rand.Intn(len(corpIdPrefixes))]
-	// 	// corp = true
-	// } else {
-	// 	name += " " + runnerIdPrefixes[rand.Intn(len(runnerIdPrefixes))]
-	// 	// corp = false
-	// }
-	// if rand.Intn(2) == 0 {
-	// 	name += ": " + corpIdSuffixes[rand.Intn(len(corpIdSuffixes))]
-	// } else {
-	// 	name += ": " + runnerIdSuffixes[rand.Intn(len(runnerIdSuffixes))]
-	// }
-	// if corp {
-	// 	name += fmt.Sprintf(" [CEO: %s]", suffixes[rand.Intn(len(suffixes))])
-	// } else {
-	// 	name += fmt.Sprintf(" [Accomplice: %s]", suffixes[rand.Intn(len(suffixes))])
-	// }
-	name += fmt.Sprintf(" (%d)", seed%1000)
+	name := fmt.Sprintf("%s %s (%d)", prefix, suffix, seedValue%1000)
+	return name
+}
+
+// hashStringToSeed converts a string to a deterministic seed
+func hashStringToSeed(input string) int64 {
 	hasher := fnv.New64a()
-	hasher.Write([]byte(name))
-	return name, int64(hasher.Sum64())
+	hasher.Write([]byte(input))
+	return int64(hasher.Sum64())
+}
+
+func generateDeckNameAndSeed() (string, int64) {
+	seed := time.Now().UnixNano()
+	name := generateNameFromSeed(seed)
+	return name, hashStringToSeed(name)
+}
+
+func generateDeckNameAndSeedFromInput(input string) (string, int64) {
+	// Check if input matches the format "prefix suffix (X)"
+	pattern := regexp.MustCompile(`^(.+) (.+) \((\d+)\)$`)
+	matches := pattern.FindStringSubmatch(input)
+	
+	if matches != nil && len(matches) == 4 {
+		prefix := matches[1]
+		suffix := matches[2]
+		numberStr := matches[3]
+		
+		// Check if prefix and suffix are valid
+		validPrefix := false
+		for _, p := range prefixes {
+			if p == prefix {
+				validPrefix = true
+				break
+			}
+		}
+		
+		validSuffix := false
+		for _, s := range suffixes {
+			if s == suffix {
+				validSuffix = true
+				break
+			}
+		}
+		
+		if validPrefix && validSuffix {
+			number, err := strconv.Atoi(numberStr)
+			if err == nil && number < 1000 {
+				// Use the input name as-is and hash it for the seed
+				return input, hashStringToSeed(input)
+			}
+		}
+	}
+	
+	// If input doesn't match format or isn't valid, hash it and generate a new name
+	seed := hashStringToSeed(input)
+	name := generateNameFromSeed(seed)
+	return name, hashStringToSeed(name)
 }
