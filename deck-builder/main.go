@@ -50,11 +50,11 @@ func main() {
 		runnerDeck := deckbuilder.MakeRunnerDeck()
 		printRunnerDeck(w, runnerDeck)
 
-		fmt.Fprintln(w, `<br><form method="GET" action="/generate-decks" style="margin-bottom: 10px; text-align: center;">
-    <input type="text" name="seed" placeholder="Enter custom seed..." style="padding: 8px; width: 200px; margin-right: 10px;">
+		fmt.Fprintln(w, `<br><form method="GET" action="/generate-decks" style="margin-bottom: 10px;">
+    <input type="text" name="seed" placeholder="Enter custom seed..." style="padding: 8px; width: 200px; display: block; margin-bottom: 10px; background-color: #2a2a2a; color: #e0e0e0; border: 1px solid #333; border-radius: 5px;">
     <button type="submit" class="button">Generate New Decks</button>
 </form>`)
-		fmt.Fprintln(w, `<a href="/generate-decks" class="button" style="margin-left: 10px;">Random Decks</a>`)
+		fmt.Fprintln(w, `<a href="/generate-decks" class="button">Random Decks</a>`)
 
 		printCopyScript(w)
 
