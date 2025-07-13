@@ -324,43 +324,43 @@ func generateDeckNameAndSeed() (string, int64) {
 }
 
 func generateDeckNameAndSeedFromInput(input string) (string, int64) {
-	// Check if input matches the format "prefix suffix (X)"
-	pattern := regexp.MustCompile(`^(.+) (.+) \((\d+)\)$`)
+	// Check if input matches the format "prefix suffix (X)" where X is a number
+	pattern := regexp.MustCompile(`^(.+) \((\d+)\)$`)
 	matches := pattern.FindStringSubmatch(input)
 	
-	if matches != nil && len(matches) == 4 {
-		prefix := matches[1]
-		suffix := matches[2]
-		numberStr := matches[3]
+	if matches != nil && len(matches) == 3 {
+		nameWithoutNumber := matches[1]
+		numberStr := matches[2]
 		
-		// Check if prefix and suffix are valid
-		validPrefix := false
-		for _, p := range prefixes {
-			if p == prefix {
-				validPrefix = true
-				break
-			}
-		}
-		
-		validSuffix := false
-		for _, s := range suffixes {
-			if s == suffix {
-				validSuffix = true
-				break
-			}
-		}
-		
-		if validPrefix && validSuffix {
-			number, err := strconv.Atoi(numberStr)
-			if err == nil && number < 1000 {
-				// Use the input name as-is and hash it for the seed
-				return input, hashStringToSeed(input)
+		// Try to find a valid prefix/suffix combination
+		for _, prefix := range prefixes {
+			if len(nameWithoutNumber) > len(prefix) && nameWithoutNumber[:len(prefix)] == prefix {
+				// Check if the rest after prefix (minus the space) is a valid suffix
+				remaining := nameWithoutNumber[len(prefix):]
+				if len(remaining) > 0 && remaining[0] == ' ' {
+					suffix := remaining[1:] // Remove the leading space
+					
+					// Check if this suffix is valid
+					for _, s := range suffixes {
+						if s == suffix {
+							// Valid prefix and suffix found
+							number, err := strconv.Atoi(numberStr)
+							if err == nil && number < 1000 {
+								// Use the input name as-is and hash it for the seed
+								return input, hashStringToSeed(input)
+							}
+						}
+					}
+				}
 			}
 		}
 	}
 	
 	// If input doesn't match format or isn't valid, hash it and generate a new name
 	seed := hashStringToSeed(input)
+	if seed < 0 {
+		seed = -seed
+	}
 	name := generateNameFromSeed(seed)
 	return name, hashStringToSeed(name)
 }
