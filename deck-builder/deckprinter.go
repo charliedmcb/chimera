@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"net/http"
+	"sort"
 	dbdatamodel "netrunner-erng/deck-builder/deckbuilder/datamodel"
 	"strings"
 )
@@ -15,9 +16,18 @@ func printCorpDeck(w http.ResponseWriter, corpDeck dbdatamodel.CorpDeck) {
 	fmt.Fprintln(w, "<summary>decklist</summary>")
 	fmt.Fprintln(w, "<div class=\"decklist-content\">")
 	corpList := ""
-	for _, card := range corpDeck.GetCards() {
-		fmt.Fprintf(w, "1 %s <br>\n", card.Title)
-		corpList += fmt.Sprintf("1 %s\\n", card.Title)
+	
+	// Extract and sort card titles alphabetically
+	cards := corpDeck.GetCards()
+	var cardTitles []string
+	for title := range cards {
+		cardTitles = append(cardTitles, title)
+	}
+	sort.Strings(cardTitles)
+	
+	for _, title := range cardTitles {
+		fmt.Fprintf(w, "1 %s <br>\n", title)
+		corpList += fmt.Sprintf("1 %s\\n", title)
 	}
 	fmt.Fprintln(w, "</div>")
 	fmt.Fprintln(w, "</details>")
@@ -36,9 +46,18 @@ func printRunnerDeck(w http.ResponseWriter, runnerDeck dbdatamodel.Deck) {
 	fmt.Fprintln(w, "<summary>decklist</summary>")
 	fmt.Fprintln(w, "<div class=\"decklist-content\">")
 	runnerList := ""
-	for _, card := range runnerDeck.GetCards() {
-		fmt.Fprintf(w, "1 %s <br>\n", card.Title)
-		runnerList += fmt.Sprintf("1 %s\\n", card.Title)
+	
+	// Extract and sort card titles alphabetically
+	cards := runnerDeck.GetCards()
+	var cardTitles []string
+	for title := range cards {
+		cardTitles = append(cardTitles, title)
+	}
+	sort.Strings(cardTitles)
+	
+	for _, title := range cardTitles {
+		fmt.Fprintf(w, "1 %s <br>\n", title)
+		runnerList += fmt.Sprintf("1 %s\\n", title)
 	}
 	fmt.Fprintln(w, "</div>")
 	fmt.Fprintln(w, "</details>")
