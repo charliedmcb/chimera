@@ -67,3 +67,12 @@ When creating pull request branches, use the format: `claude/<description-of-cha
 - `<description-of-change>` should be a minimal descriptor of the change being worked on
 - Examples: `claude/custom-seed`, `claude/shareable-urls`, `claude/card-sorting`
 - This helps clearly identify Claude-created branches vs. other branches
+
+## Version Management
+
+### Patch Command
+When the user says "patch", it means to bump the patch version by one in both locations:
+- `Makefile` - Update the `VERSION ?= vX.X.X-alpha` line
+- `deck-builder/static/homepage.html` - Update the version display in the paragraph
+
+Example: v0.0.48-alpha → v0.0.49-alpha
