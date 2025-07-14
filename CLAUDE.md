@@ -60,3 +60,10 @@ The application is deployed on Azure Kubernetes Service (AKS):
 - Module name: `netrunner-erng` (Go 1.19)
 - No external Go dependencies - uses only standard library
 - Self-contained with embedded static assets
+
+## Branch Naming Convention
+
+When creating pull request branches, use the format: `claude/<description-of-change>`
+- `<description-of-change>` should be a minimal descriptor of the change being worked on
+- Examples: `claude/custom-seed`, `claude/shareable-urls`, `claude/card-sorting`
+- This helps clearly identify Claude-created branches vs. other branches
