@@ -13,12 +13,14 @@ func main() {
 	http.HandleFunc("/generate-decks", func(w http.ResponseWriter, r *http.Request) {
 		var name string
 		var seed int64
+		var actualSeedUsed string
 
 		inputSeed := r.URL.Query().Get("seed")
 		if inputSeed != "" {
 			name, seed = generateDeckNameAndSeedFromInput(inputSeed)
 		} else {
 			name, seed = generateDeckNameAndSeed()
+			actualSeedUsed = name
 		}
 		rand.Seed(seed)
 
@@ -56,6 +58,17 @@ func main() {
 </form>`)
 
 		printCopyScript(w)
+
+		// Add JavaScript to update URL with seed for sharing
+		fmt.Fprintf(w, `<script>
+		// Update URL with seed if not already present or empty
+		const urlParams = new URLSearchParams(window.location.search);
+		const currentSeed = urlParams.get('seed');
+		if (!currentSeed || currentSeed === '') {
+			const newUrl = window.location.pathname + '?seed=' + encodeURIComponent('%s');
+			window.history.pushState({}, '', newUrl);
+		}
+		</script>`, actualSeedUsed)
 
 		fmt.Fprintln(w, `</main>`)
 		fmt.Fprintln(w, "</body>")
