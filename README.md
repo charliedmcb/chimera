@@ -10,6 +10,11 @@
 # Overview:
 This repo is the holding place of all code for [www.playchimera.net](http://www.playchimera.net) the website for understanding the chimera format, and generating decklists for online play.
 
+# Container Registry
+
+Published images are stored in Docker Hub at:
+[https://hub.docker.com/r/charliedmcb/chimera](https://hub.docker.com/r/charliedmcb/chimera)
+
 # Contributing/Feedback:
 This is an open source reposity maintained by charliedmcb (netrunner handle: `Santa`). I welcome anyone to open a Pull Request on the repo, and request a review which I will try to get to as timely as possible. 
 
